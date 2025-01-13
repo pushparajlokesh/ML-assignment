@@ -1,0 +1,501 @@
+Session_ID,Student_ID,Start_Time,End_Time,Session_Type,Device_ID,Location,Engagement_Level,Environment_Conditions,Activity_Status,Data_Processing_Location,Response_Time,Model_Used,Quiz_Score,Time_Spent,Task_Completion_Status,Mistakes_Observed,Feedback
+Session0001,S051,01-01-2024 08:00,01-01-2024 09:00,Vocabulary,Device10,Classroom,53,"22°C, 59% light",Inactive,Cloud,171.2,Basic ANN,88,49,Incomplete,4,Needs Improvement
+Session0002,S032,01-01-2024 09:00,01-01-2024 10:00,Listening,Device4,Classroom,58,"20°C, 52% light",Active,Cloud,370.41,Basic ANN,89,24,Incomplete,4,Needs Improvement
+Session0003,S084,01-01-2024 10:00,01-01-2024 11:00,Listening,Device10,Study Hall,75,"22°C, 76% light",Active,Local Edge Node,456.33,Basic ANN,87,10,Completed,4,Needs Improvement
+Session0004,S021,01-01-2024 11:00,01-01-2024 12:00,Writing,Device1,Study Hall,75,"21°C, 85% light",Active,Local Edge Node,220.52,Basic ANN,82,17,Incomplete,1,Needs Improvement
+Session0005,S046,01-01-2024 12:00,01-01-2024 13:00,Writing,Device1,Classroom,83,"20°C, 59% light",Inactive,Cloud,135.17,Basic ANN,76,59,Incomplete,4,Well Done!
+Session0006,S040,01-01-2024 13:00,01-01-2024 14:00,Vocabulary,Device9,Classroom,90,"22°C, 91% light",Active,Cloud,254.04,Basic ANN,54,15,Incomplete,0,Well Done!
+Session0007,S059,01-01-2024 14:00,01-01-2024 15:00,Reading,Device1,Classroom,76,"20°C, 100% light",Active,Local Edge Node,143.68,Basic ANN,79,20,Completed,4,Needs Improvement
+Session0008,S032,01-01-2024 15:00,01-01-2024 16:00,Writing,Device10,Study Hall,72,"25°C, 83% light",Inactive,Cloud,330.05,SO-DENN,96,48,Completed,3,Well Done!
+Session0009,S087,01-01-2024 16:00,01-01-2024 17:00,Reading,Device4,Study Hall,96,"25°C, 70% light",Inactive,Cloud,139.84,SO-DENN,56,36,Incomplete,1,Needs Improvement
+Session0010,S076,01-01-2024 17:00,01-01-2024 18:00,Listening,Device9,Study Hall,91,"25°C, 63% light",Inactive,Cloud,140.06,Basic ANN,79,53,Completed,1,Needs Improvement
+Session0011,S012,01-01-2024 18:00,01-01-2024 19:00,Listening,Device5,Study Hall,53,"23°C, 87% light",Inactive,Local Edge Node,434.09,Basic ANN,61,37,Completed,0,Needs Improvement
+Session0012,S074,01-01-2024 19:00,01-01-2024 20:00,Vocabulary,Device10,Classroom,88,"23°C, 83% light",Active,Cloud,179.09,Basic ANN,64,44,Completed,4,Well Done!
+Session0013,S073,01-01-2024 20:00,01-01-2024 21:00,Vocabulary,Device1,Classroom,94,"25°C, 94% light",Inactive,Local Edge Node,460.44,SO-DENN,86,24,Completed,1,Needs Improvement
+Session0014,S079,01-01-2024 21:00,01-01-2024 22:00,Listening,Device10,Study Hall,64,"25°C, 88% light",Inactive,Cloud,430.33,Basic ANN,64,31,Completed,0,Needs Improvement
+Session0015,S063,01-01-2024 22:00,01-01-2024 23:00,Writing,Device9,Classroom,83,"25°C, 91% light",Inactive,Cloud,243.6,SO-DENN,73,14,Incomplete,1,Needs Improvement
+Session0016,S045,01-01-2024 23:00,02-01-2024 00:00,Reading,Device6,Study Hall,68,"20°C, 56% light",Inactive,Cloud,174.37,Basic ANN,61,15,Completed,2,Needs Improvement
+Session0017,S028,02-01-2024 00:00,02-01-2024 01:00,Writing,Device1,Classroom,99,"23°C, 99% light",Inactive,Cloud,401.9,Basic ANN,58,31,Incomplete,1,Needs Improvement
+Session0018,S049,02-01-2024 01:00,02-01-2024 02:00,Writing,Device4,Study Hall,94,"25°C, 88% light",Active,Cloud,449.84,SO-DENN,71,48,Incomplete,0,Well Done!
+Session0019,S100,02-01-2024 02:00,02-01-2024 03:00,Reading,Device2,Classroom,68,"21°C, 55% light",Active,Local Edge Node,431.15,SO-DENN,71,37,Completed,0,Well Done!
+Session0020,S008,02-01-2024 03:00,02-01-2024 04:00,Writing,Device9,Classroom,71,"20°C, 77% light",Active,Local Edge Node,450.59,SO-DENN,58,38,Completed,3,Well Done!
+Session0021,S087,02-01-2024 04:00,02-01-2024 05:00,Writing,Device5,Classroom,97,"22°C, 67% light",Active,Cloud,240.66,SO-DENN,73,20,Completed,2,Well Done!
+Session0022,S076,02-01-2024 05:00,02-01-2024 06:00,Vocabulary,Device1,Classroom,90,"22°C, 65% light",Active,Local Edge Node,393.58,Basic ANN,54,33,Completed,0,Needs Improvement
+Session0023,S008,02-01-2024 06:00,02-01-2024 07:00,Listening,Device6,Study Hall,74,"25°C, 80% light",Active,Cloud,177.66,SO-DENN,88,53,Incomplete,2,Well Done!
+Session0024,S013,02-01-2024 07:00,02-01-2024 08:00,Listening,Device7,Study Hall,98,"23°C, 86% light",Active,Local Edge Node,453.82,Basic ANN,87,20,Completed,2,Well Done!
+Session0025,S092,02-01-2024 08:00,02-01-2024 09:00,Listening,Device9,Classroom,97,"20°C, 50% light",Inactive,Local Edge Node,317.53,Basic ANN,69,17,Completed,4,Well Done!
+Session0026,S036,02-01-2024 09:00,02-01-2024 10:00,Reading,Device5,Classroom,73,"25°C, 59% light",Inactive,Cloud,177.78,Basic ANN,73,47,Completed,0,Well Done!
+Session0027,S033,02-01-2024 10:00,02-01-2024 11:00,Reading,Device9,Classroom,73,"20°C, 79% light",Inactive,Local Edge Node,128.73,SO-DENN,75,30,Incomplete,3,Well Done!
+Session0028,S100,02-01-2024 11:00,02-01-2024 12:00,Writing,Device4,Classroom,61,"20°C, 79% light",Inactive,Local Edge Node,423.98,SO-DENN,77,40,Incomplete,0,Needs Improvement
+Session0029,S009,02-01-2024 12:00,02-01-2024 13:00,Vocabulary,Device6,Study Hall,88,"24°C, 94% light",Inactive,Cloud,439.06,SO-DENN,97,17,Incomplete,1,Well Done!
+Session0030,S078,02-01-2024 13:00,02-01-2024 14:00,Vocabulary,Device6,Classroom,83,"24°C, 69% light",Inactive,Local Edge Node,380.52,Basic ANN,64,17,Completed,1,Well Done!
+Session0031,S055,02-01-2024 14:00,02-01-2024 15:00,Writing,Device4,Classroom,95,"20°C, 95% light",Active,Local Edge Node,499.17,SO-DENN,86,24,Completed,4,Needs Improvement
+Session0032,S002,02-01-2024 15:00,02-01-2024 16:00,Writing,Device3,Study Hall,71,"23°C, 65% light",Inactive,Local Edge Node,398.53,Basic ANN,65,25,Incomplete,0,Needs Improvement
+Session0033,S100,02-01-2024 16:00,02-01-2024 17:00,Listening,Device2,Study Hall,72,"23°C, 91% light",Inactive,Cloud,356.57,SO-DENN,67,58,Incomplete,2,Needs Improvement
+Session0034,S024,02-01-2024 17:00,02-01-2024 18:00,Reading,Device3,Study Hall,54,"21°C, 86% light",Inactive,Local Edge Node,195.99,Basic ANN,82,26,Completed,1,Needs Improvement
+Session0035,S053,02-01-2024 18:00,02-01-2024 19:00,Reading,Device4,Study Hall,94,"23°C, 65% light",Active,Local Edge Node,249.43,Basic ANN,96,51,Completed,1,Well Done!
+Session0036,S058,02-01-2024 19:00,02-01-2024 20:00,Reading,Device5,Classroom,64,"23°C, 94% light",Active,Local Edge Node,472.18,Basic ANN,51,39,Completed,3,Needs Improvement
+Session0037,S054,02-01-2024 20:00,02-01-2024 21:00,Listening,Device8,Study Hall,66,"23°C, 55% light",Inactive,Cloud,373.11,SO-DENN,82,30,Completed,2,Needs Improvement
+Session0038,S005,02-01-2024 21:00,02-01-2024 22:00,Vocabulary,Device10,Study Hall,56,"21°C, 80% light",Active,Local Edge Node,196.09,SO-DENN,77,53,Completed,4,Well Done!
+Session0039,S073,02-01-2024 22:00,02-01-2024 23:00,Vocabulary,Device4,Classroom,67,"22°C, 73% light",Active,Local Edge Node,378.22,Basic ANN,67,49,Incomplete,1,Well Done!
+Session0040,S066,02-01-2024 23:00,03-01-2024 00:00,Listening,Device10,Study Hall,50,"22°C, 73% light",Active,Cloud,255.63,SO-DENN,87,36,Incomplete,3,Needs Improvement
+Session0041,S077,03-01-2024 00:00,03-01-2024 01:00,Writing,Device9,Classroom,83,"25°C, 53% light",Active,Local Edge Node,479.38,Basic ANN,77,49,Completed,4,Needs Improvement
+Session0042,S025,03-01-2024 01:00,03-01-2024 02:00,Writing,Device2,Study Hall,60,"20°C, 53% light",Inactive,Cloud,478.86,Basic ANN,98,34,Incomplete,2,Well Done!
+Session0043,S074,03-01-2024 02:00,03-01-2024 03:00,Vocabulary,Device8,Classroom,61,"25°C, 50% light",Active,Local Edge Node,220.52,SO-DENN,91,14,Incomplete,1,Needs Improvement
+Session0044,S063,03-01-2024 03:00,03-01-2024 04:00,Vocabulary,Device2,Classroom,58,"25°C, 90% light",Active,Local Edge Node,337.1,Basic ANN,91,26,Incomplete,3,Needs Improvement
+Session0045,S003,03-01-2024 04:00,03-01-2024 05:00,Listening,Device9,Study Hall,81,"25°C, 88% light",Active,Cloud,199.34,SO-DENN,94,41,Completed,1,Needs Improvement
+Session0046,S034,03-01-2024 05:00,03-01-2024 06:00,Writing,Device4,Classroom,95,"22°C, 73% light",Inactive,Cloud,395.13,Basic ANN,51,59,Completed,1,Well Done!
+Session0047,S006,03-01-2024 06:00,03-01-2024 07:00,Reading,Device4,Classroom,66,"25°C, 74% light",Active,Cloud,466.52,SO-DENN,51,37,Incomplete,4,Well Done!
+Session0048,S080,03-01-2024 07:00,03-01-2024 08:00,Reading,Device2,Study Hall,96,"20°C, 97% light",Active,Local Edge Node,165.75,SO-DENN,68,46,Incomplete,4,Needs Improvement
+Session0049,S088,03-01-2024 08:00,03-01-2024 09:00,Reading,Device7,Study Hall,90,"21°C, 80% light",Inactive,Local Edge Node,142.39,Basic ANN,85,53,Completed,3,Well Done!
+Session0050,S001,03-01-2024 09:00,03-01-2024 10:00,Listening,Device6,Classroom,53,"24°C, 93% light",Inactive,Cloud,142.39,SO-DENN,78,20,Incomplete,1,Needs Improvement
+Session0051,S078,03-01-2024 10:00,03-01-2024 11:00,Listening,Device8,Classroom,95,"22°C, 89% light",Active,Local Edge Node,330.39,SO-DENN,61,52,Completed,4,Needs Improvement
+Session0052,S043,03-01-2024 11:00,03-01-2024 12:00,Listening,Device6,Study Hall,56,"21°C, 84% light",Active,Local Edge Node,458.87,Basic ANN,98,51,Completed,2,Well Done!
+Session0053,S089,03-01-2024 12:00,03-01-2024 13:00,Vocabulary,Device7,Study Hall,62,"25°C, 57% light",Active,Local Edge Node,482.08,Basic ANN,78,46,Completed,2,Well Done!
+Session0054,S057,03-01-2024 13:00,03-01-2024 14:00,Writing,Device2,Classroom,77,"23°C, 66% light",Active,Cloud,282.58,Basic ANN,61,32,Completed,4,Needs Improvement
+Session0055,S041,03-01-2024 14:00,03-01-2024 15:00,Listening,Device6,Classroom,83,"25°C, 64% light",Inactive,Local Edge Node,378.38,Basic ANN,69,38,Completed,4,Well Done!
+Session0056,S015,03-01-2024 15:00,03-01-2024 16:00,Writing,Device7,Study Hall,57,"21°C, 72% light",Active,Cloud,212.02,Basic ANN,50,43,Completed,1,Needs Improvement
+Session0057,S010,03-01-2024 16:00,03-01-2024 17:00,Listening,Device1,Study Hall,65,"22°C, 68% light",Active,Local Edge Node,271.7,SO-DENN,52,37,Completed,0,Needs Improvement
+Session0058,S091,03-01-2024 17:00,03-01-2024 18:00,Writing,Device9,Classroom,97,"22°C, 50% light",Inactive,Local Edge Node,498.65,Basic ANN,67,19,Incomplete,1,Needs Improvement
+Session0059,S025,03-01-2024 18:00,03-01-2024 19:00,Vocabulary,Device7,Classroom,81,"21°C, 92% light",Inactive,Cloud,224.51,SO-DENN,84,46,Incomplete,1,Well Done!
+Session0060,S018,03-01-2024 19:00,03-01-2024 20:00,Vocabulary,Device2,Classroom,72,"22°C, 86% light",Inactive,Local Edge Node,209.38,SO-DENN,83,22,Completed,1,Needs Improvement
+Session0061,S038,03-01-2024 20:00,03-01-2024 21:00,Writing,Device8,Study Hall,93,"24°C, 67% light",Active,Cloud,260.49,Basic ANN,69,17,Completed,2,Needs Improvement
+Session0062,S027,03-01-2024 21:00,03-01-2024 22:00,Vocabulary,Device5,Classroom,55,"24°C, 71% light",Inactive,Local Edge Node,458.27,SO-DENN,95,24,Completed,1,Well Done!
+Session0063,S066,03-01-2024 22:00,03-01-2024 23:00,Vocabulary,Device8,Study Hall,82,"22°C, 87% light",Active,Local Edge Node,351.29,SO-DENN,68,47,Completed,4,Well Done!
+Session0064,S050,03-01-2024 23:00,04-01-2024 00:00,Listening,Device6,Classroom,56,"22°C, 93% light",Inactive,Local Edge Node,211.18,Basic ANN,84,26,Incomplete,3,Needs Improvement
+Session0065,S060,04-01-2024 00:00,04-01-2024 01:00,Writing,Device2,Classroom,53,"24°C, 88% light",Inactive,Local Edge Node,472.83,Basic ANN,56,47,Completed,0,Needs Improvement
+Session0066,S006,04-01-2024 01:00,04-01-2024 02:00,Vocabulary,Device1,Study Hall,87,"23°C, 60% light",Inactive,Cloud,135.3,SO-DENN,77,27,Completed,3,Needs Improvement
+Session0067,S065,04-01-2024 02:00,04-01-2024 03:00,Writing,Device4,Classroom,96,"22°C, 75% light",Active,Local Edge Node,393.82,Basic ANN,62,44,Completed,3,Needs Improvement
+Session0068,S088,04-01-2024 03:00,04-01-2024 04:00,Listening,Device8,Study Hall,99,"22°C, 99% light",Inactive,Local Edge Node,318.05,SO-DENN,94,33,Incomplete,1,Well Done!
+Session0069,S007,04-01-2024 04:00,04-01-2024 05:00,Listening,Device9,Study Hall,76,"24°C, 97% light",Active,Cloud,230.6,SO-DENN,89,17,Incomplete,4,Needs Improvement
+Session0070,S042,04-01-2024 05:00,04-01-2024 06:00,Reading,Device7,Study Hall,65,"22°C, 51% light",Active,Cloud,290,Basic ANN,70,36,Completed,3,Needs Improvement
+Session0071,S047,04-01-2024 06:00,04-01-2024 07:00,Vocabulary,Device10,Study Hall,78,"22°C, 88% light",Active,Cloud,128.65,SO-DENN,77,18,Incomplete,0,Needs Improvement
+Session0072,S037,04-01-2024 07:00,04-01-2024 08:00,Reading,Device6,Classroom,97,"22°C, 98% light",Active,Local Edge Node,414.23,SO-DENN,60,22,Incomplete,1,Needs Improvement
+Session0073,S061,04-01-2024 08:00,04-01-2024 09:00,Reading,Device10,Classroom,93,"24°C, 73% light",Active,Local Edge Node,282.61,SO-DENN,78,16,Completed,2,Well Done!
+Session0074,S025,04-01-2024 09:00,04-01-2024 10:00,Writing,Device2,Study Hall,99,"22°C, 72% light",Active,Local Edge Node,174.67,SO-DENN,91,51,Incomplete,3,Needs Improvement
+Session0075,S054,04-01-2024 10:00,04-01-2024 11:00,Reading,Device3,Study Hall,74,"21°C, 92% light",Inactive,Local Edge Node,340.89,Basic ANN,68,26,Completed,0,Well Done!
+Session0076,S010,04-01-2024 11:00,04-01-2024 12:00,Writing,Device8,Classroom,88,"23°C, 53% light",Inactive,Local Edge Node,189.48,SO-DENN,65,54,Incomplete,2,Needs Improvement
+Session0077,S041,04-01-2024 12:00,04-01-2024 13:00,Listening,Device10,Classroom,63,"20°C, 54% light",Active,Cloud,396.84,SO-DENN,92,49,Incomplete,2,Well Done!
+Session0078,S009,04-01-2024 13:00,04-01-2024 14:00,Listening,Device1,Study Hall,99,"22°C, 70% light",Active,Cloud,412.25,Basic ANN,56,50,Completed,1,Well Done!
+Session0079,S059,04-01-2024 14:00,04-01-2024 15:00,Vocabulary,Device4,Classroom,70,"24°C, 75% light",Inactive,Cloud,347.48,SO-DENN,94,34,Incomplete,4,Needs Improvement
+Session0080,S046,04-01-2024 15:00,04-01-2024 16:00,Writing,Device1,Study Hall,59,"22°C, 59% light",Inactive,Local Edge Node,403.85,SO-DENN,58,50,Completed,4,Needs Improvement
+Session0081,S099,04-01-2024 16:00,04-01-2024 17:00,Listening,Device10,Classroom,72,"22°C, 61% light",Inactive,Local Edge Node,414.87,SO-DENN,68,54,Completed,2,Needs Improvement
+Session0082,S037,04-01-2024 17:00,04-01-2024 18:00,Reading,Device8,Classroom,72,"25°C, 66% light",Inactive,Cloud,102,SO-DENN,69,16,Completed,0,Well Done!
+Session0083,S070,04-01-2024 18:00,04-01-2024 19:00,Writing,Device10,Classroom,92,"23°C, 100% light",Inactive,Local Edge Node,258.06,SO-DENN,94,11,Completed,2,Well Done!
+Session0084,S095,04-01-2024 19:00,04-01-2024 20:00,Listening,Device10,Study Hall,57,"24°C, 65% light",Inactive,Local Edge Node,302.71,Basic ANN,52,15,Incomplete,1,Well Done!
+Session0085,S003,04-01-2024 20:00,04-01-2024 21:00,Vocabulary,Device7,Classroom,79,"21°C, 50% light",Inactive,Local Edge Node,117.42,Basic ANN,89,28,Completed,2,Needs Improvement
+Session0086,S097,04-01-2024 21:00,04-01-2024 22:00,Reading,Device2,Classroom,68,"23°C, 87% light",Active,Cloud,413.92,Basic ANN,95,51,Incomplete,1,Well Done!
+Session0087,S042,04-01-2024 22:00,04-01-2024 23:00,Listening,Device8,Study Hall,67,"20°C, 97% light",Active,Cloud,422.97,SO-DENN,85,57,Completed,0,Needs Improvement
+Session0088,S097,04-01-2024 23:00,05-01-2024 00:00,Writing,Device2,Classroom,98,"24°C, 64% light",Inactive,Cloud,317.6,Basic ANN,54,52,Completed,1,Well Done!
+Session0089,S019,05-01-2024 00:00,05-01-2024 01:00,Listening,Device5,Classroom,70,"22°C, 94% light",Active,Local Edge Node,339.54,Basic ANN,69,20,Completed,1,Needs Improvement
+Session0090,S066,05-01-2024 01:00,05-01-2024 02:00,Listening,Device3,Classroom,66,"25°C, 73% light",Inactive,Local Edge Node,450.74,SO-DENN,81,37,Completed,2,Needs Improvement
+Session0091,S028,05-01-2024 02:00,05-01-2024 03:00,Writing,Device5,Study Hall,97,"23°C, 68% light",Inactive,Cloud,357.65,Basic ANN,80,30,Completed,4,Needs Improvement
+Session0092,S097,05-01-2024 03:00,05-01-2024 04:00,Vocabulary,Device2,Study Hall,64,"20°C, 80% light",Active,Cloud,468.22,SO-DENN,51,37,Incomplete,3,Well Done!
+Session0093,S012,05-01-2024 04:00,05-01-2024 05:00,Writing,Device3,Classroom,67,"20°C, 60% light",Active,Local Edge Node,491.1,SO-DENN,77,24,Completed,1,Well Done!
+Session0094,S009,05-01-2024 05:00,05-01-2024 06:00,Vocabulary,Device4,Classroom,99,"20°C, 56% light",Inactive,Local Edge Node,368.97,Basic ANN,92,12,Incomplete,2,Needs Improvement
+Session0095,S043,05-01-2024 06:00,05-01-2024 07:00,Reading,Device4,Study Hall,54,"23°C, 91% light",Inactive,Cloud,124.9,Basic ANN,59,33,Incomplete,3,Well Done!
+Session0096,S093,05-01-2024 07:00,05-01-2024 08:00,Writing,Device3,Classroom,54,"23°C, 77% light",Inactive,Local Edge Node,242.25,SO-DENN,62,18,Completed,4,Well Done!
+Session0097,S012,05-01-2024 08:00,05-01-2024 09:00,Vocabulary,Device7,Study Hall,84,"24°C, 85% light",Active,Local Edge Node,181.82,SO-DENN,68,47,Incomplete,0,Well Done!
+Session0098,S029,05-01-2024 09:00,05-01-2024 10:00,Writing,Device7,Study Hall,87,"23°C, 96% light",Inactive,Local Edge Node,165.94,Basic ANN,87,35,Completed,3,Well Done!
+Session0099,S019,05-01-2024 10:00,05-01-2024 11:00,Writing,Device10,Classroom,75,"22°C, 78% light",Inactive,Local Edge Node,255.22,SO-DENN,86,39,Completed,0,Well Done!
+Session0100,S013,05-01-2024 11:00,05-01-2024 12:00,Vocabulary,Device10,Study Hall,65,"22°C, 95% light",Active,Local Edge Node,493.21,Basic ANN,79,39,Incomplete,1,Needs Improvement
+Session0101,S007,05-01-2024 12:00,05-01-2024 13:00,Writing,Device5,Study Hall,52,"22°C, 99% light",Active,Local Edge Node,223.6,SO-DENN,53,48,Completed,4,Needs Improvement
+Session0102,S014,05-01-2024 13:00,05-01-2024 14:00,Listening,Device10,Classroom,80,"22°C, 95% light",Inactive,Local Edge Node,266.07,SO-DENN,56,16,Incomplete,3,Well Done!
+Session0103,S020,05-01-2024 14:00,05-01-2024 15:00,Writing,Device4,Study Hall,94,"20°C, 52% light",Active,Local Edge Node,289.12,Basic ANN,58,38,Completed,4,Needs Improvement
+Session0104,S038,05-01-2024 15:00,05-01-2024 16:00,Listening,Device4,Classroom,70,"22°C, 76% light",Active,Local Edge Node,180.68,SO-DENN,51,13,Incomplete,2,Well Done!
+Session0105,S033,05-01-2024 16:00,05-01-2024 17:00,Listening,Device7,Classroom,74,"21°C, 89% light",Active,Local Edge Node,297.55,Basic ANN,56,21,Incomplete,1,Needs Improvement
+Session0106,S015,05-01-2024 17:00,05-01-2024 18:00,Listening,Device10,Classroom,89,"23°C, 78% light",Inactive,Local Edge Node,220.38,SO-DENN,83,42,Incomplete,3,Well Done!
+Session0107,S023,05-01-2024 18:00,05-01-2024 19:00,Vocabulary,Device2,Study Hall,54,"24°C, 99% light",Active,Cloud,233.07,SO-DENN,88,23,Completed,1,Needs Improvement
+Session0108,S018,05-01-2024 19:00,05-01-2024 20:00,Writing,Device7,Classroom,97,"21°C, 55% light",Active,Cloud,158.98,SO-DENN,87,54,Completed,1,Needs Improvement
+Session0109,S036,05-01-2024 20:00,05-01-2024 21:00,Reading,Device8,Study Hall,77,"21°C, 59% light",Inactive,Cloud,115.04,SO-DENN,52,14,Completed,0,Well Done!
+Session0110,S002,05-01-2024 21:00,05-01-2024 22:00,Vocabulary,Device2,Study Hall,67,"23°C, 57% light",Inactive,Cloud,408.56,Basic ANN,52,31,Completed,1,Needs Improvement
+Session0111,S064,05-01-2024 22:00,05-01-2024 23:00,Writing,Device2,Classroom,50,"23°C, 97% light",Inactive,Local Edge Node,391.38,SO-DENN,62,14,Completed,0,Needs Improvement
+Session0112,S009,05-01-2024 23:00,06-01-2024 00:00,Listening,Device5,Study Hall,98,"25°C, 99% light",Active,Cloud,234.84,SO-DENN,65,12,Incomplete,2,Needs Improvement
+Session0113,S001,06-01-2024 00:00,06-01-2024 01:00,Vocabulary,Device3,Classroom,86,"22°C, 76% light",Active,Cloud,360.36,SO-DENN,91,32,Completed,1,Well Done!
+Session0114,S036,06-01-2024 01:00,06-01-2024 02:00,Reading,Device5,Classroom,57,"25°C, 98% light",Inactive,Local Edge Node,250.63,SO-DENN,78,24,Completed,1,Needs Improvement
+Session0115,S002,06-01-2024 02:00,06-01-2024 03:00,Writing,Device3,Classroom,59,"21°C, 91% light",Active,Cloud,304.23,SO-DENN,61,36,Incomplete,0,Needs Improvement
+Session0116,S083,06-01-2024 03:00,06-01-2024 04:00,Reading,Device5,Classroom,61,"24°C, 73% light",Inactive,Cloud,420,SO-DENN,76,11,Incomplete,0,Needs Improvement
+Session0117,S055,06-01-2024 04:00,06-01-2024 05:00,Writing,Device4,Classroom,81,"23°C, 53% light",Active,Local Edge Node,388.23,Basic ANN,90,22,Incomplete,3,Needs Improvement
+Session0118,S013,06-01-2024 05:00,06-01-2024 06:00,Writing,Device7,Classroom,70,"23°C, 66% light",Active,Cloud,372.81,SO-DENN,62,54,Incomplete,4,Well Done!
+Session0119,S023,06-01-2024 06:00,06-01-2024 07:00,Listening,Device5,Study Hall,95,"24°C, 95% light",Active,Cloud,270.78,SO-DENN,62,29,Incomplete,0,Well Done!
+Session0120,S024,06-01-2024 07:00,06-01-2024 08:00,Reading,Device4,Study Hall,99,"24°C, 73% light",Active,Cloud,122.37,Basic ANN,91,25,Completed,3,Well Done!
+Session0121,S002,06-01-2024 08:00,06-01-2024 09:00,Reading,Device4,Study Hall,81,"24°C, 81% light",Inactive,Local Edge Node,445.46,Basic ANN,91,50,Incomplete,4,Well Done!
+Session0122,S067,06-01-2024 09:00,06-01-2024 10:00,Listening,Device1,Classroom,91,"21°C, 67% light",Inactive,Local Edge Node,392.09,SO-DENN,85,12,Completed,4,Needs Improvement
+Session0123,S072,06-01-2024 10:00,06-01-2024 11:00,Listening,Device3,Classroom,90,"23°C, 72% light",Active,Cloud,104.24,Basic ANN,55,48,Completed,0,Well Done!
+Session0124,S055,06-01-2024 11:00,06-01-2024 12:00,Reading,Device1,Study Hall,90,"24°C, 71% light",Inactive,Local Edge Node,292.32,SO-DENN,98,35,Incomplete,4,Needs Improvement
+Session0125,S034,06-01-2024 12:00,06-01-2024 13:00,Writing,Device1,Study Hall,50,"25°C, 88% light",Active,Cloud,390.61,Basic ANN,98,43,Completed,1,Well Done!
+Session0126,S007,06-01-2024 13:00,06-01-2024 14:00,Reading,Device4,Study Hall,77,"24°C, 85% light",Inactive,Local Edge Node,319.65,Basic ANN,96,22,Incomplete,1,Well Done!
+Session0127,S037,06-01-2024 14:00,06-01-2024 15:00,Reading,Device7,Study Hall,93,"24°C, 84% light",Inactive,Cloud,319.98,SO-DENN,88,55,Completed,4,Well Done!
+Session0128,S002,06-01-2024 15:00,06-01-2024 16:00,Reading,Device6,Classroom,60,"22°C, 50% light",Inactive,Cloud,416.93,Basic ANN,83,27,Completed,2,Well Done!
+Session0129,S006,06-01-2024 16:00,06-01-2024 17:00,Listening,Device10,Study Hall,59,"20°C, 100% light",Inactive,Local Edge Node,357.43,Basic ANN,60,51,Incomplete,4,Well Done!
+Session0130,S047,06-01-2024 17:00,06-01-2024 18:00,Reading,Device4,Classroom,52,"20°C, 89% light",Inactive,Cloud,226.76,SO-DENN,90,39,Completed,4,Needs Improvement
+Session0131,S001,06-01-2024 18:00,06-01-2024 19:00,Listening,Device2,Classroom,93,"23°C, 53% light",Active,Local Edge Node,231.08,SO-DENN,57,37,Completed,1,Well Done!
+Session0132,S088,06-01-2024 19:00,06-01-2024 20:00,Writing,Device3,Classroom,76,"22°C, 96% light",Active,Local Edge Node,247.7,SO-DENN,98,10,Completed,1,Well Done!
+Session0133,S060,06-01-2024 20:00,06-01-2024 21:00,Writing,Device2,Study Hall,70,"24°C, 93% light",Active,Local Edge Node,109.57,SO-DENN,92,13,Incomplete,0,Needs Improvement
+Session0134,S072,06-01-2024 21:00,06-01-2024 22:00,Vocabulary,Device9,Classroom,98,"23°C, 98% light",Active,Local Edge Node,282.58,Basic ANN,97,43,Completed,2,Needs Improvement
+Session0135,S045,06-01-2024 22:00,06-01-2024 23:00,Listening,Device1,Study Hall,71,"24°C, 65% light",Inactive,Local Edge Node,106.58,Basic ANN,61,30,Completed,3,Well Done!
+Session0136,S025,06-01-2024 23:00,07-01-2024 00:00,Writing,Device1,Classroom,60,"22°C, 91% light",Inactive,Local Edge Node,186.88,SO-DENN,68,42,Completed,3,Needs Improvement
+Session0137,S089,07-01-2024 00:00,07-01-2024 01:00,Vocabulary,Device9,Classroom,64,"22°C, 61% light",Active,Local Edge Node,161.94,SO-DENN,97,29,Completed,1,Needs Improvement
+Session0138,S096,07-01-2024 01:00,07-01-2024 02:00,Vocabulary,Device1,Classroom,51,"25°C, 98% light",Inactive,Cloud,464.16,SO-DENN,68,14,Completed,1,Needs Improvement
+Session0139,S080,07-01-2024 02:00,07-01-2024 03:00,Reading,Device4,Classroom,73,"22°C, 70% light",Active,Cloud,332.54,SO-DENN,93,48,Completed,2,Needs Improvement
+Session0140,S031,07-01-2024 03:00,07-01-2024 04:00,Listening,Device7,Classroom,95,"20°C, 59% light",Active,Local Edge Node,237.77,SO-DENN,58,22,Incomplete,4,Well Done!
+Session0141,S026,07-01-2024 04:00,07-01-2024 05:00,Writing,Device5,Study Hall,58,"23°C, 61% light",Active,Local Edge Node,227.49,SO-DENN,83,55,Incomplete,4,Needs Improvement
+Session0142,S008,07-01-2024 05:00,07-01-2024 06:00,Writing,Device6,Classroom,99,"23°C, 94% light",Active,Local Edge Node,446.23,SO-DENN,68,15,Incomplete,0,Needs Improvement
+Session0143,S008,07-01-2024 06:00,07-01-2024 07:00,Vocabulary,Device8,Study Hall,70,"20°C, 94% light",Inactive,Local Edge Node,150.88,Basic ANN,97,55,Incomplete,2,Well Done!
+Session0144,S088,07-01-2024 07:00,07-01-2024 08:00,Vocabulary,Device8,Classroom,91,"23°C, 50% light",Active,Local Edge Node,175.22,SO-DENN,98,48,Incomplete,0,Well Done!
+Session0145,S089,07-01-2024 08:00,07-01-2024 09:00,Vocabulary,Device1,Study Hall,61,"25°C, 90% light",Active,Local Edge Node,430.12,Basic ANN,97,11,Completed,4,Well Done!
+Session0146,S077,07-01-2024 09:00,07-01-2024 10:00,Vocabulary,Device5,Study Hall,84,"20°C, 77% light",Inactive,Cloud,135.73,Basic ANN,92,46,Completed,4,Needs Improvement
+Session0147,S080,07-01-2024 10:00,07-01-2024 11:00,Reading,Device9,Study Hall,85,"24°C, 91% light",Active,Local Edge Node,399.72,SO-DENN,85,47,Incomplete,0,Well Done!
+Session0148,S062,07-01-2024 11:00,07-01-2024 12:00,Reading,Device10,Classroom,95,"24°C, 64% light",Active,Local Edge Node,258.13,SO-DENN,68,46,Incomplete,0,Well Done!
+Session0149,S010,07-01-2024 12:00,07-01-2024 13:00,Writing,Device1,Classroom,63,"25°C, 76% light",Active,Local Edge Node,281.49,SO-DENN,66,57,Incomplete,0,Needs Improvement
+Session0150,S024,07-01-2024 13:00,07-01-2024 14:00,Listening,Device3,Classroom,64,"22°C, 78% light",Inactive,Local Edge Node,210.87,Basic ANN,79,56,Completed,4,Well Done!
+Session0151,S074,07-01-2024 14:00,07-01-2024 15:00,Writing,Device1,Study Hall,60,"20°C, 55% light",Active,Local Edge Node,315.21,SO-DENN,80,21,Completed,3,Well Done!
+Session0152,S091,07-01-2024 15:00,07-01-2024 16:00,Reading,Device1,Classroom,51,"21°C, 75% light",Active,Local Edge Node,127.5,SO-DENN,90,58,Incomplete,1,Well Done!
+Session0153,S078,07-01-2024 16:00,07-01-2024 17:00,Reading,Device2,Classroom,79,"21°C, 92% light",Active,Cloud,146.61,Basic ANN,64,17,Completed,4,Needs Improvement
+Session0154,S100,07-01-2024 17:00,07-01-2024 18:00,Listening,Device2,Study Hall,57,"22°C, 80% light",Inactive,Local Edge Node,169.06,SO-DENN,78,10,Incomplete,4,Needs Improvement
+Session0155,S069,07-01-2024 18:00,07-01-2024 19:00,Vocabulary,Device8,Study Hall,55,"22°C, 55% light",Active,Local Edge Node,429.52,SO-DENN,94,37,Incomplete,2,Well Done!
+Session0156,S091,07-01-2024 19:00,07-01-2024 20:00,Reading,Device6,Classroom,87,"22°C, 58% light",Active,Cloud,435.26,Basic ANN,94,54,Completed,0,Well Done!
+Session0157,S071,07-01-2024 20:00,07-01-2024 21:00,Vocabulary,Device7,Study Hall,59,"24°C, 73% light",Active,Local Edge Node,238.27,Basic ANN,57,13,Incomplete,3,Well Done!
+Session0158,S021,07-01-2024 21:00,07-01-2024 22:00,Writing,Device2,Study Hall,54,"25°C, 83% light",Inactive,Cloud,493.91,SO-DENN,78,40,Incomplete,0,Well Done!
+Session0159,S069,07-01-2024 22:00,07-01-2024 23:00,Vocabulary,Device4,Classroom,69,"22°C, 62% light",Active,Local Edge Node,339.89,SO-DENN,98,57,Incomplete,2,Needs Improvement
+Session0160,S075,07-01-2024 23:00,08-01-2024 00:00,Vocabulary,Device3,Study Hall,99,"24°C, 55% light",Active,Cloud,248.44,Basic ANN,92,29,Completed,1,Well Done!
+Session0161,S053,08-01-2024 00:00,08-01-2024 01:00,Reading,Device3,Study Hall,76,"21°C, 63% light",Active,Local Edge Node,445.78,Basic ANN,86,40,Incomplete,3,Needs Improvement
+Session0162,S095,08-01-2024 01:00,08-01-2024 02:00,Vocabulary,Device10,Study Hall,76,"20°C, 68% light",Active,Local Edge Node,141.9,SO-DENN,52,43,Incomplete,0,Needs Improvement
+Session0163,S039,08-01-2024 02:00,08-01-2024 03:00,Writing,Device3,Study Hall,72,"23°C, 75% light",Active,Local Edge Node,404.43,SO-DENN,77,53,Incomplete,1,Well Done!
+Session0164,S052,08-01-2024 03:00,08-01-2024 04:00,Vocabulary,Device9,Study Hall,82,"21°C, 90% light",Inactive,Cloud,271.99,Basic ANN,64,50,Incomplete,0,Well Done!
+Session0165,S053,08-01-2024 04:00,08-01-2024 05:00,Reading,Device1,Study Hall,58,"20°C, 99% light",Active,Local Edge Node,351.88,Basic ANN,65,11,Completed,1,Needs Improvement
+Session0166,S020,08-01-2024 05:00,08-01-2024 06:00,Listening,Device9,Classroom,65,"22°C, 93% light",Active,Local Edge Node,277.06,SO-DENN,59,37,Incomplete,2,Well Done!
+Session0167,S038,08-01-2024 06:00,08-01-2024 07:00,Listening,Device6,Classroom,88,"22°C, 75% light",Inactive,Cloud,123.68,SO-DENN,87,39,Incomplete,4,Well Done!
+Session0168,S045,08-01-2024 07:00,08-01-2024 08:00,Listening,Device1,Classroom,93,"23°C, 57% light",Inactive,Cloud,379.56,SO-DENN,94,38,Incomplete,4,Well Done!
+Session0169,S017,08-01-2024 08:00,08-01-2024 09:00,Listening,Device8,Study Hall,77,"20°C, 80% light",Inactive,Cloud,358.36,Basic ANN,98,37,Incomplete,0,Well Done!
+Session0170,S055,08-01-2024 09:00,08-01-2024 10:00,Vocabulary,Device6,Classroom,87,"20°C, 74% light",Active,Local Edge Node,230.42,SO-DENN,58,14,Incomplete,3,Well Done!
+Session0171,S013,08-01-2024 10:00,08-01-2024 11:00,Writing,Device3,Study Hall,86,"24°C, 92% light",Active,Cloud,448.51,Basic ANN,64,57,Incomplete,0,Needs Improvement
+Session0172,S042,08-01-2024 11:00,08-01-2024 12:00,Listening,Device10,Classroom,83,"21°C, 92% light",Inactive,Local Edge Node,471.47,Basic ANN,83,15,Incomplete,2,Well Done!
+Session0173,S062,08-01-2024 12:00,08-01-2024 13:00,Reading,Device1,Study Hall,63,"25°C, 66% light",Inactive,Cloud,175.07,SO-DENN,64,42,Incomplete,1,Well Done!
+Session0174,S043,08-01-2024 13:00,08-01-2024 14:00,Reading,Device10,Study Hall,85,"21°C, 51% light",Active,Local Edge Node,118.42,SO-DENN,81,42,Incomplete,1,Well Done!
+Session0175,S059,08-01-2024 14:00,08-01-2024 15:00,Listening,Device2,Classroom,59,"20°C, 92% light",Inactive,Cloud,235.92,Basic ANN,95,59,Completed,2,Well Done!
+Session0176,S034,08-01-2024 15:00,08-01-2024 16:00,Reading,Device9,Study Hall,62,"20°C, 76% light",Active,Cloud,494.55,Basic ANN,81,27,Completed,0,Needs Improvement
+Session0177,S065,08-01-2024 16:00,08-01-2024 17:00,Vocabulary,Device7,Study Hall,62,"22°C, 85% light",Active,Cloud,194.84,Basic ANN,73,35,Incomplete,4,Needs Improvement
+Session0178,S011,08-01-2024 17:00,08-01-2024 18:00,Vocabulary,Device9,Classroom,57,"25°C, 80% light",Active,Cloud,235.06,Basic ANN,89,44,Incomplete,1,Well Done!
+Session0179,S072,08-01-2024 18:00,08-01-2024 19:00,Reading,Device9,Classroom,61,"20°C, 85% light",Active,Local Edge Node,480.48,Basic ANN,77,17,Completed,1,Well Done!
+Session0180,S071,08-01-2024 19:00,08-01-2024 20:00,Writing,Device8,Classroom,94,"25°C, 67% light",Inactive,Local Edge Node,415.02,SO-DENN,68,42,Completed,4,Needs Improvement
+Session0181,S036,08-01-2024 20:00,08-01-2024 21:00,Vocabulary,Device10,Study Hall,56,"24°C, 65% light",Inactive,Cloud,366.92,Basic ANN,95,17,Incomplete,4,Needs Improvement
+Session0182,S097,08-01-2024 21:00,08-01-2024 22:00,Vocabulary,Device8,Classroom,63,"23°C, 79% light",Inactive,Cloud,241.29,Basic ANN,59,47,Completed,0,Well Done!
+Session0183,S049,08-01-2024 22:00,08-01-2024 23:00,Writing,Device2,Study Hall,55,"24°C, 84% light",Active,Cloud,233.38,Basic ANN,65,55,Completed,3,Well Done!
+Session0184,S053,08-01-2024 23:00,09-01-2024 00:00,Listening,Device8,Classroom,64,"24°C, 50% light",Inactive,Local Edge Node,148.9,Basic ANN,97,55,Completed,2,Needs Improvement
+Session0185,S008,09-01-2024 00:00,09-01-2024 01:00,Writing,Device5,Study Hall,92,"25°C, 89% light",Active,Local Edge Node,266.25,Basic ANN,89,52,Incomplete,4,Well Done!
+Session0186,S085,09-01-2024 01:00,09-01-2024 02:00,Vocabulary,Device6,Study Hall,54,"22°C, 63% light",Active,Local Edge Node,187.3,Basic ANN,94,24,Completed,3,Needs Improvement
+Session0187,S068,09-01-2024 02:00,09-01-2024 03:00,Reading,Device6,Classroom,70,"22°C, 93% light",Inactive,Cloud,138.87,SO-DENN,88,38,Incomplete,4,Well Done!
+Session0188,S087,09-01-2024 03:00,09-01-2024 04:00,Listening,Device7,Study Hall,91,"25°C, 73% light",Inactive,Cloud,143.01,Basic ANN,57,39,Completed,1,Needs Improvement
+Session0189,S055,09-01-2024 04:00,09-01-2024 05:00,Vocabulary,Device1,Study Hall,83,"21°C, 88% light",Inactive,Local Edge Node,304,Basic ANN,86,59,Completed,1,Needs Improvement
+Session0190,S074,09-01-2024 05:00,09-01-2024 06:00,Vocabulary,Device4,Study Hall,84,"23°C, 53% light",Active,Cloud,185.24,SO-DENN,60,35,Completed,1,Well Done!
+Session0191,S049,09-01-2024 06:00,09-01-2024 07:00,Reading,Device5,Classroom,58,"22°C, 71% light",Active,Cloud,146.72,SO-DENN,63,47,Incomplete,4,Needs Improvement
+Session0192,S009,09-01-2024 07:00,09-01-2024 08:00,Writing,Device1,Study Hall,60,"24°C, 91% light",Inactive,Cloud,108.82,SO-DENN,82,21,Completed,0,Well Done!
+Session0193,S007,09-01-2024 08:00,09-01-2024 09:00,Reading,Device6,Study Hall,88,"21°C, 54% light",Active,Cloud,461.54,Basic ANN,52,52,Completed,4,Needs Improvement
+Session0194,S021,09-01-2024 09:00,09-01-2024 10:00,Listening,Device7,Classroom,74,"25°C, 99% light",Active,Cloud,427.04,SO-DENN,94,13,Incomplete,2,Well Done!
+Session0195,S100,09-01-2024 10:00,09-01-2024 11:00,Vocabulary,Device10,Study Hall,73,"20°C, 63% light",Active,Local Edge Node,290.89,SO-DENN,64,30,Completed,4,Needs Improvement
+Session0196,S047,09-01-2024 11:00,09-01-2024 12:00,Reading,Device9,Classroom,76,"22°C, 74% light",Inactive,Cloud,293.49,Basic ANN,77,37,Completed,0,Well Done!
+Session0197,S079,09-01-2024 12:00,09-01-2024 13:00,Listening,Device3,Classroom,61,"25°C, 67% light",Inactive,Local Edge Node,316.04,SO-DENN,96,30,Completed,1,Needs Improvement
+Session0198,S076,09-01-2024 13:00,09-01-2024 14:00,Writing,Device9,Study Hall,70,"20°C, 86% light",Inactive,Cloud,442.05,SO-DENN,79,36,Completed,2,Well Done!
+Session0199,S084,09-01-2024 14:00,09-01-2024 15:00,Vocabulary,Device1,Study Hall,97,"23°C, 63% light",Active,Cloud,318.92,Basic ANN,95,42,Incomplete,3,Well Done!
+Session0200,S037,09-01-2024 15:00,09-01-2024 16:00,Writing,Device7,Classroom,85,"24°C, 73% light",Active,Local Edge Node,429.65,SO-DENN,99,24,Completed,4,Well Done!
+Session0201,S077,09-01-2024 16:00,09-01-2024 17:00,Reading,Device7,Study Hall,67,"21°C, 95% light",Inactive,Local Edge Node,272.91,Basic ANN,61,50,Completed,1,Needs Improvement
+Session0202,S075,09-01-2024 17:00,09-01-2024 18:00,Reading,Device7,Classroom,64,"21°C, 71% light",Active,Local Edge Node,400.81,SO-DENN,94,48,Incomplete,3,Needs Improvement
+Session0203,S084,09-01-2024 18:00,09-01-2024 19:00,Writing,Device8,Classroom,92,"20°C, 61% light",Inactive,Cloud,306.39,SO-DENN,90,15,Completed,1,Well Done!
+Session0204,S019,09-01-2024 19:00,09-01-2024 20:00,Listening,Device2,Classroom,98,"20°C, 68% light",Inactive,Cloud,129.08,Basic ANN,93,58,Completed,1,Needs Improvement
+Session0205,S025,09-01-2024 20:00,09-01-2024 21:00,Writing,Device3,Classroom,66,"20°C, 64% light",Active,Cloud,176.99,SO-DENN,82,55,Incomplete,0,Needs Improvement
+Session0206,S068,09-01-2024 21:00,09-01-2024 22:00,Vocabulary,Device9,Study Hall,87,"22°C, 77% light",Inactive,Local Edge Node,132.63,Basic ANN,55,32,Incomplete,1,Needs Improvement
+Session0207,S068,09-01-2024 22:00,09-01-2024 23:00,Vocabulary,Device5,Study Hall,95,"24°C, 68% light",Active,Local Edge Node,199.17,SO-DENN,57,49,Completed,4,Well Done!
+Session0208,S010,09-01-2024 23:00,10-01-2024 00:00,Listening,Device4,Study Hall,89,"21°C, 83% light",Active,Cloud,483.81,Basic ANN,58,30,Completed,4,Well Done!
+Session0209,S092,10-01-2024 00:00,10-01-2024 01:00,Reading,Device8,Classroom,95,"20°C, 56% light",Active,Cloud,472.58,Basic ANN,58,49,Completed,2,Needs Improvement
+Session0210,S053,10-01-2024 01:00,10-01-2024 02:00,Reading,Device6,Classroom,61,"23°C, 64% light",Active,Local Edge Node,185.54,Basic ANN,64,35,Completed,3,Well Done!
+Session0211,S080,10-01-2024 02:00,10-01-2024 03:00,Writing,Device3,Classroom,51,"25°C, 51% light",Active,Local Edge Node,116.08,SO-DENN,75,34,Completed,0,Needs Improvement
+Session0212,S053,10-01-2024 03:00,10-01-2024 04:00,Writing,Device10,Study Hall,88,"22°C, 72% light",Active,Cloud,416.11,SO-DENN,99,25,Incomplete,1,Needs Improvement
+Session0213,S016,10-01-2024 04:00,10-01-2024 05:00,Reading,Device10,Study Hall,90,"25°C, 78% light",Active,Cloud,499.82,Basic ANN,71,43,Completed,3,Needs Improvement
+Session0214,S006,10-01-2024 05:00,10-01-2024 06:00,Writing,Device9,Classroom,53,"20°C, 75% light",Active,Cloud,477.01,SO-DENN,58,59,Completed,2,Needs Improvement
+Session0215,S068,10-01-2024 06:00,10-01-2024 07:00,Writing,Device6,Classroom,95,"20°C, 76% light",Inactive,Cloud,345.11,Basic ANN,53,44,Completed,2,Needs Improvement
+Session0216,S095,10-01-2024 07:00,10-01-2024 08:00,Listening,Device5,Classroom,63,"21°C, 66% light",Inactive,Local Edge Node,228.06,Basic ANN,69,50,Incomplete,4,Needs Improvement
+Session0217,S012,10-01-2024 08:00,10-01-2024 09:00,Vocabulary,Device7,Study Hall,91,"25°C, 83% light",Active,Local Edge Node,482,Basic ANN,89,49,Incomplete,4,Well Done!
+Session0218,S095,10-01-2024 09:00,10-01-2024 10:00,Vocabulary,Device5,Study Hall,92,"20°C, 73% light",Inactive,Local Edge Node,494.71,Basic ANN,63,52,Incomplete,0,Needs Improvement
+Session0219,S064,10-01-2024 10:00,10-01-2024 11:00,Writing,Device10,Classroom,95,"20°C, 64% light",Inactive,Cloud,259.05,Basic ANN,60,56,Completed,3,Well Done!
+Session0220,S098,10-01-2024 11:00,10-01-2024 12:00,Listening,Device2,Study Hall,85,"22°C, 83% light",Inactive,Cloud,414.04,Basic ANN,79,22,Incomplete,3,Well Done!
+Session0221,S033,10-01-2024 12:00,10-01-2024 13:00,Reading,Device10,Study Hall,74,"24°C, 65% light",Active,Local Edge Node,118.75,Basic ANN,93,34,Incomplete,2,Needs Improvement
+Session0222,S055,10-01-2024 13:00,10-01-2024 14:00,Reading,Device4,Study Hall,91,"25°C, 98% light",Inactive,Cloud,186.66,Basic ANN,59,55,Incomplete,0,Well Done!
+Session0223,S083,10-01-2024 14:00,10-01-2024 15:00,Vocabulary,Device8,Study Hall,66,"23°C, 61% light",Active,Cloud,161.88,Basic ANN,79,12,Incomplete,3,Well Done!
+Session0224,S072,10-01-2024 15:00,10-01-2024 16:00,Vocabulary,Device2,Classroom,68,"20°C, 61% light",Active,Local Edge Node,403.5,SO-DENN,51,59,Incomplete,0,Needs Improvement
+Session0225,S016,10-01-2024 16:00,10-01-2024 17:00,Reading,Device7,Study Hall,95,"20°C, 72% light",Inactive,Local Edge Node,260.4,SO-DENN,80,50,Incomplete,4,Needs Improvement
+Session0226,S065,10-01-2024 17:00,10-01-2024 18:00,Reading,Device6,Study Hall,53,"24°C, 93% light",Active,Local Edge Node,117.21,SO-DENN,75,54,Incomplete,3,Well Done!
+Session0227,S094,10-01-2024 18:00,10-01-2024 19:00,Vocabulary,Device5,Study Hall,56,"23°C, 76% light",Inactive,Local Edge Node,177.59,Basic ANN,96,36,Completed,2,Well Done!
+Session0228,S084,10-01-2024 19:00,10-01-2024 20:00,Reading,Device4,Classroom,72,"25°C, 50% light",Active,Cloud,421.01,Basic ANN,59,46,Completed,2,Needs Improvement
+Session0229,S066,10-01-2024 20:00,10-01-2024 21:00,Writing,Device2,Study Hall,96,"23°C, 56% light",Active,Cloud,111.88,Basic ANN,71,56,Completed,2,Well Done!
+Session0230,S040,10-01-2024 21:00,10-01-2024 22:00,Reading,Device9,Classroom,99,"24°C, 63% light",Active,Cloud,144.68,Basic ANN,61,35,Incomplete,0,Well Done!
+Session0231,S062,10-01-2024 22:00,10-01-2024 23:00,Writing,Device8,Classroom,58,"24°C, 99% light",Inactive,Cloud,235.19,SO-DENN,53,47,Incomplete,0,Well Done!
+Session0232,S014,10-01-2024 23:00,11-01-2024 00:00,Reading,Device8,Study Hall,65,"22°C, 50% light",Active,Cloud,470.94,Basic ANN,63,16,Incomplete,0,Needs Improvement
+Session0233,S014,11-01-2024 00:00,11-01-2024 01:00,Vocabulary,Device8,Classroom,80,"25°C, 67% light",Active,Cloud,332.66,Basic ANN,80,55,Incomplete,2,Well Done!
+Session0234,S077,11-01-2024 01:00,11-01-2024 02:00,Writing,Device2,Study Hall,61,"20°C, 74% light",Active,Local Edge Node,157.56,Basic ANN,58,27,Incomplete,1,Needs Improvement
+Session0235,S012,11-01-2024 02:00,11-01-2024 03:00,Reading,Device10,Classroom,82,"21°C, 100% light",Active,Local Edge Node,182.6,SO-DENN,66,28,Incomplete,1,Needs Improvement
+Session0236,S072,11-01-2024 03:00,11-01-2024 04:00,Writing,Device3,Classroom,65,"25°C, 86% light",Inactive,Local Edge Node,113.21,Basic ANN,57,34,Incomplete,2,Well Done!
+Session0237,S056,11-01-2024 04:00,11-01-2024 05:00,Writing,Device10,Study Hall,88,"21°C, 70% light",Active,Cloud,167.75,SO-DENN,91,22,Incomplete,0,Well Done!
+Session0238,S010,11-01-2024 05:00,11-01-2024 06:00,Vocabulary,Device10,Classroom,59,"25°C, 54% light",Active,Local Edge Node,136.73,Basic ANN,96,18,Completed,2,Needs Improvement
+Session0239,S080,11-01-2024 06:00,11-01-2024 07:00,Reading,Device1,Classroom,58,"25°C, 98% light",Inactive,Local Edge Node,174.24,SO-DENN,74,43,Completed,2,Needs Improvement
+Session0240,S046,11-01-2024 07:00,11-01-2024 08:00,Listening,Device1,Classroom,60,"21°C, 52% light",Inactive,Cloud,235.27,SO-DENN,73,33,Completed,1,Needs Improvement
+Session0241,S035,11-01-2024 08:00,11-01-2024 09:00,Vocabulary,Device8,Classroom,69,"23°C, 62% light",Inactive,Local Edge Node,356.75,Basic ANN,62,10,Incomplete,3,Well Done!
+Session0242,S041,11-01-2024 09:00,11-01-2024 10:00,Listening,Device6,Study Hall,79,"25°C, 71% light",Inactive,Local Edge Node,230.54,Basic ANN,59,34,Completed,1,Well Done!
+Session0243,S035,11-01-2024 10:00,11-01-2024 11:00,Listening,Device1,Classroom,94,"20°C, 67% light",Active,Local Edge Node,284.81,Basic ANN,84,12,Completed,1,Needs Improvement
+Session0244,S026,11-01-2024 11:00,11-01-2024 12:00,Reading,Device10,Study Hall,61,"22°C, 52% light",Inactive,Local Edge Node,499.79,Basic ANN,89,23,Incomplete,3,Well Done!
+Session0245,S027,11-01-2024 12:00,11-01-2024 13:00,Listening,Device3,Study Hall,88,"23°C, 80% light",Active,Local Edge Node,462.27,SO-DENN,99,52,Completed,3,Needs Improvement
+Session0246,S033,11-01-2024 13:00,11-01-2024 14:00,Writing,Device5,Classroom,78,"25°C, 68% light",Inactive,Cloud,489.07,Basic ANN,65,42,Completed,2,Needs Improvement
+Session0247,S047,11-01-2024 14:00,11-01-2024 15:00,Vocabulary,Device7,Study Hall,63,"20°C, 85% light",Inactive,Cloud,422.99,Basic ANN,73,33,Incomplete,3,Needs Improvement
+Session0248,S002,11-01-2024 15:00,11-01-2024 16:00,Listening,Device2,Classroom,74,"21°C, 89% light",Active,Local Edge Node,220.19,SO-DENN,57,36,Completed,2,Needs Improvement
+Session0249,S045,11-01-2024 16:00,11-01-2024 17:00,Listening,Device8,Study Hall,81,"25°C, 94% light",Inactive,Local Edge Node,337.84,Basic ANN,73,44,Completed,4,Well Done!
+Session0250,S006,11-01-2024 17:00,11-01-2024 18:00,Listening,Device1,Classroom,50,"24°C, 79% light",Active,Cloud,215.72,SO-DENN,69,23,Incomplete,4,Well Done!
+Session0251,S030,11-01-2024 18:00,11-01-2024 19:00,Reading,Device10,Classroom,79,"25°C, 68% light",Inactive,Local Edge Node,483.73,Basic ANN,81,46,Completed,1,Well Done!
+Session0252,S047,11-01-2024 19:00,11-01-2024 20:00,Reading,Device4,Study Hall,83,"22°C, 95% light",Inactive,Cloud,130.04,SO-DENN,67,44,Completed,2,Needs Improvement
+Session0253,S046,11-01-2024 20:00,11-01-2024 21:00,Vocabulary,Device1,Study Hall,87,"24°C, 54% light",Inactive,Cloud,438.62,SO-DENN,58,17,Completed,2,Needs Improvement
+Session0254,S049,11-01-2024 21:00,11-01-2024 22:00,Vocabulary,Device5,Classroom,86,"22°C, 64% light",Active,Local Edge Node,399.33,Basic ANN,89,10,Completed,4,Well Done!
+Session0255,S046,11-01-2024 22:00,11-01-2024 23:00,Vocabulary,Device4,Classroom,70,"24°C, 82% light",Active,Cloud,315.88,SO-DENN,85,49,Incomplete,1,Needs Improvement
+Session0256,S027,11-01-2024 23:00,12-01-2024 00:00,Reading,Device5,Classroom,51,"24°C, 64% light",Active,Cloud,170.58,SO-DENN,98,28,Incomplete,2,Needs Improvement
+Session0257,S026,12-01-2024 00:00,12-01-2024 01:00,Listening,Device3,Study Hall,86,"25°C, 81% light",Inactive,Cloud,219.22,Basic ANN,59,21,Incomplete,0,Well Done!
+Session0258,S045,12-01-2024 01:00,12-01-2024 02:00,Reading,Device1,Classroom,63,"23°C, 63% light",Active,Local Edge Node,128.48,Basic ANN,77,28,Completed,3,Well Done!
+Session0259,S048,12-01-2024 02:00,12-01-2024 03:00,Listening,Device3,Classroom,61,"24°C, 100% light",Active,Local Edge Node,342.49,Basic ANN,92,29,Completed,1,Needs Improvement
+Session0260,S063,12-01-2024 03:00,12-01-2024 04:00,Writing,Device2,Study Hall,61,"25°C, 65% light",Active,Local Edge Node,141.92,Basic ANN,97,37,Incomplete,0,Needs Improvement
+Session0261,S099,12-01-2024 04:00,12-01-2024 05:00,Reading,Device3,Classroom,62,"24°C, 83% light",Inactive,Local Edge Node,176.29,SO-DENN,71,33,Incomplete,3,Needs Improvement
+Session0262,S076,12-01-2024 05:00,12-01-2024 06:00,Writing,Device1,Classroom,90,"25°C, 86% light",Inactive,Cloud,206.04,SO-DENN,50,46,Incomplete,1,Well Done!
+Session0263,S069,12-01-2024 06:00,12-01-2024 07:00,Listening,Device9,Classroom,62,"20°C, 76% light",Active,Cloud,368.75,Basic ANN,68,28,Completed,2,Well Done!
+Session0264,S029,12-01-2024 07:00,12-01-2024 08:00,Vocabulary,Device5,Study Hall,75,"23°C, 98% light",Active,Cloud,270,SO-DENN,58,44,Incomplete,4,Well Done!
+Session0265,S094,12-01-2024 08:00,12-01-2024 09:00,Reading,Device1,Study Hall,52,"21°C, 85% light",Active,Cloud,174.92,SO-DENN,65,26,Incomplete,2,Needs Improvement
+Session0266,S015,12-01-2024 09:00,12-01-2024 10:00,Vocabulary,Device4,Study Hall,54,"24°C, 77% light",Inactive,Local Edge Node,196.78,Basic ANN,75,36,Incomplete,4,Well Done!
+Session0267,S023,12-01-2024 10:00,12-01-2024 11:00,Vocabulary,Device9,Study Hall,58,"21°C, 65% light",Active,Local Edge Node,497.47,SO-DENN,92,20,Completed,0,Needs Improvement
+Session0268,S063,12-01-2024 11:00,12-01-2024 12:00,Vocabulary,Device1,Classroom,88,"24°C, 99% light",Active,Cloud,395.53,Basic ANN,99,32,Incomplete,2,Well Done!
+Session0269,S071,12-01-2024 12:00,12-01-2024 13:00,Listening,Device2,Classroom,85,"22°C, 59% light",Inactive,Cloud,113.67,SO-DENN,60,47,Incomplete,4,Well Done!
+Session0270,S014,12-01-2024 13:00,12-01-2024 14:00,Reading,Device8,Study Hall,91,"24°C, 61% light",Inactive,Local Edge Node,486.74,SO-DENN,76,49,Incomplete,2,Needs Improvement
+Session0271,S045,12-01-2024 14:00,12-01-2024 15:00,Listening,Device10,Classroom,56,"21°C, 65% light",Active,Local Edge Node,212.12,Basic ANN,79,30,Incomplete,4,Well Done!
+Session0272,S072,12-01-2024 15:00,12-01-2024 16:00,Writing,Device2,Study Hall,57,"23°C, 67% light",Inactive,Cloud,249.02,SO-DENN,76,25,Completed,1,Needs Improvement
+Session0273,S086,12-01-2024 16:00,12-01-2024 17:00,Writing,Device5,Study Hall,92,"24°C, 86% light",Active,Cloud,462.4,Basic ANN,68,57,Completed,4,Well Done!
+Session0274,S052,12-01-2024 17:00,12-01-2024 18:00,Listening,Device10,Study Hall,89,"23°C, 64% light",Inactive,Cloud,308.19,SO-DENN,83,29,Completed,3,Needs Improvement
+Session0275,S051,12-01-2024 18:00,12-01-2024 19:00,Listening,Device6,Classroom,51,"24°C, 96% light",Active,Local Edge Node,432.45,Basic ANN,72,49,Completed,1,Well Done!
+Session0276,S054,12-01-2024 19:00,12-01-2024 20:00,Reading,Device1,Study Hall,69,"23°C, 99% light",Active,Cloud,478.21,Basic ANN,83,24,Incomplete,1,Needs Improvement
+Session0277,S017,12-01-2024 20:00,12-01-2024 21:00,Vocabulary,Device8,Classroom,70,"24°C, 60% light",Inactive,Local Edge Node,443.7,SO-DENN,50,37,Incomplete,0,Needs Improvement
+Session0278,S052,12-01-2024 21:00,12-01-2024 22:00,Reading,Device9,Study Hall,50,"22°C, 99% light",Inactive,Local Edge Node,153.31,SO-DENN,94,45,Completed,1,Needs Improvement
+Session0279,S046,12-01-2024 22:00,12-01-2024 23:00,Listening,Device5,Classroom,83,"20°C, 88% light",Active,Local Edge Node,126.17,SO-DENN,63,26,Incomplete,2,Needs Improvement
+Session0280,S055,12-01-2024 23:00,13-01-2024 00:00,Listening,Device2,Study Hall,77,"21°C, 58% light",Inactive,Cloud,413.71,SO-DENN,61,52,Incomplete,0,Needs Improvement
+Session0281,S015,13-01-2024 00:00,13-01-2024 01:00,Reading,Device8,Study Hall,70,"25°C, 54% light",Active,Cloud,353.78,Basic ANN,58,25,Incomplete,1,Well Done!
+Session0282,S003,13-01-2024 01:00,13-01-2024 02:00,Writing,Device9,Classroom,67,"25°C, 88% light",Inactive,Cloud,484.43,SO-DENN,52,35,Incomplete,0,Needs Improvement
+Session0283,S005,13-01-2024 02:00,13-01-2024 03:00,Writing,Device10,Study Hall,62,"21°C, 90% light",Active,Local Edge Node,192.47,SO-DENN,73,43,Incomplete,1,Well Done!
+Session0284,S004,13-01-2024 03:00,13-01-2024 04:00,Vocabulary,Device8,Classroom,55,"20°C, 53% light",Inactive,Local Edge Node,370.2,Basic ANN,71,53,Completed,1,Needs Improvement
+Session0285,S084,13-01-2024 04:00,13-01-2024 05:00,Listening,Device9,Study Hall,92,"22°C, 72% light",Active,Local Edge Node,327.96,SO-DENN,53,58,Incomplete,3,Needs Improvement
+Session0286,S008,13-01-2024 05:00,13-01-2024 06:00,Vocabulary,Device1,Classroom,61,"23°C, 65% light",Inactive,Local Edge Node,498.16,Basic ANN,60,16,Incomplete,0,Well Done!
+Session0287,S062,13-01-2024 06:00,13-01-2024 07:00,Listening,Device3,Classroom,67,"21°C, 100% light",Inactive,Cloud,120.6,Basic ANN,54,46,Completed,0,Needs Improvement
+Session0288,S015,13-01-2024 07:00,13-01-2024 08:00,Writing,Device5,Study Hall,94,"24°C, 77% light",Inactive,Local Edge Node,170.19,Basic ANN,72,41,Incomplete,2,Well Done!
+Session0289,S075,13-01-2024 08:00,13-01-2024 09:00,Writing,Device4,Classroom,92,"25°C, 68% light",Inactive,Cloud,479.43,SO-DENN,69,43,Incomplete,0,Needs Improvement
+Session0290,S036,13-01-2024 09:00,13-01-2024 10:00,Vocabulary,Device6,Study Hall,66,"20°C, 98% light",Inactive,Cloud,202.53,SO-DENN,72,18,Incomplete,0,Needs Improvement
+Session0291,S024,13-01-2024 10:00,13-01-2024 11:00,Listening,Device1,Study Hall,70,"22°C, 85% light",Inactive,Cloud,214.2,Basic ANN,54,31,Completed,4,Needs Improvement
+Session0292,S005,13-01-2024 11:00,13-01-2024 12:00,Reading,Device7,Classroom,81,"24°C, 62% light",Active,Cloud,343.2,Basic ANN,92,35,Incomplete,1,Well Done!
+Session0293,S084,13-01-2024 12:00,13-01-2024 13:00,Writing,Device10,Study Hall,90,"22°C, 61% light",Inactive,Cloud,325.01,Basic ANN,95,32,Completed,3,Needs Improvement
+Session0294,S098,13-01-2024 13:00,13-01-2024 14:00,Listening,Device2,Classroom,74,"24°C, 73% light",Inactive,Cloud,386.45,Basic ANN,82,48,Incomplete,3,Well Done!
+Session0295,S055,13-01-2024 14:00,13-01-2024 15:00,Reading,Device6,Classroom,84,"25°C, 86% light",Active,Cloud,473.2,Basic ANN,82,37,Incomplete,2,Well Done!
+Session0296,S077,13-01-2024 15:00,13-01-2024 16:00,Reading,Device9,Study Hall,63,"24°C, 57% light",Active,Cloud,288.82,SO-DENN,54,39,Incomplete,2,Well Done!
+Session0297,S051,13-01-2024 16:00,13-01-2024 17:00,Writing,Device2,Study Hall,62,"25°C, 73% light",Inactive,Local Edge Node,239.23,SO-DENN,81,36,Incomplete,4,Well Done!
+Session0298,S056,13-01-2024 17:00,13-01-2024 18:00,Reading,Device5,Study Hall,85,"24°C, 63% light",Active,Cloud,239.73,SO-DENN,57,10,Completed,4,Needs Improvement
+Session0299,S093,13-01-2024 18:00,13-01-2024 19:00,Vocabulary,Device2,Classroom,63,"20°C, 68% light",Inactive,Local Edge Node,392.31,SO-DENN,66,21,Completed,2,Well Done!
+Session0300,S077,13-01-2024 19:00,13-01-2024 20:00,Listening,Device6,Study Hall,82,"22°C, 85% light",Inactive,Local Edge Node,310.2,SO-DENN,54,26,Completed,1,Well Done!
+Session0301,S052,13-01-2024 20:00,13-01-2024 21:00,Writing,Device6,Classroom,61,"20°C, 94% light",Active,Local Edge Node,401.25,Basic ANN,96,44,Incomplete,4,Well Done!
+Session0302,S004,13-01-2024 21:00,13-01-2024 22:00,Listening,Device8,Study Hall,55,"22°C, 53% light",Active,Local Edge Node,168.68,Basic ANN,63,15,Completed,2,Well Done!
+Session0303,S072,13-01-2024 22:00,13-01-2024 23:00,Writing,Device9,Classroom,91,"20°C, 56% light",Active,Cloud,320.67,SO-DENN,85,56,Completed,3,Well Done!
+Session0304,S093,13-01-2024 23:00,14-01-2024 00:00,Vocabulary,Device1,Study Hall,76,"23°C, 94% light",Active,Cloud,449.81,Basic ANN,54,26,Completed,2,Well Done!
+Session0305,S036,14-01-2024 00:00,14-01-2024 01:00,Reading,Device5,Study Hall,69,"22°C, 57% light",Active,Cloud,255.94,Basic ANN,81,55,Incomplete,2,Well Done!
+Session0306,S021,14-01-2024 01:00,14-01-2024 02:00,Listening,Device7,Classroom,52,"25°C, 67% light",Active,Local Edge Node,351.52,SO-DENN,86,28,Incomplete,1,Needs Improvement
+Session0307,S071,14-01-2024 02:00,14-01-2024 03:00,Vocabulary,Device9,Study Hall,72,"22°C, 59% light",Active,Cloud,427.1,Basic ANN,83,13,Completed,2,Well Done!
+Session0308,S027,14-01-2024 03:00,14-01-2024 04:00,Vocabulary,Device1,Classroom,85,"21°C, 98% light",Active,Local Edge Node,187.71,SO-DENN,88,50,Incomplete,3,Well Done!
+Session0309,S046,14-01-2024 04:00,14-01-2024 05:00,Reading,Device7,Classroom,60,"23°C, 87% light",Active,Cloud,244.31,SO-DENN,78,37,Completed,3,Well Done!
+Session0310,S037,14-01-2024 05:00,14-01-2024 06:00,Vocabulary,Device3,Study Hall,62,"21°C, 70% light",Inactive,Cloud,219.78,Basic ANN,91,49,Incomplete,1,Well Done!
+Session0311,S099,14-01-2024 06:00,14-01-2024 07:00,Reading,Device4,Classroom,67,"21°C, 93% light",Active,Cloud,227.08,Basic ANN,96,15,Completed,1,Well Done!
+Session0312,S076,14-01-2024 07:00,14-01-2024 08:00,Writing,Device9,Classroom,53,"21°C, 56% light",Active,Local Edge Node,207.88,SO-DENN,88,57,Incomplete,1,Well Done!
+Session0313,S065,14-01-2024 08:00,14-01-2024 09:00,Vocabulary,Device5,Classroom,67,"24°C, 50% light",Inactive,Cloud,383.92,Basic ANN,58,42,Incomplete,1,Well Done!
+Session0314,S001,14-01-2024 09:00,14-01-2024 10:00,Reading,Device3,Classroom,98,"25°C, 91% light",Inactive,Cloud,467.37,SO-DENN,87,56,Incomplete,4,Needs Improvement
+Session0315,S078,14-01-2024 10:00,14-01-2024 11:00,Vocabulary,Device3,Study Hall,54,"20°C, 71% light",Active,Local Edge Node,124.42,SO-DENN,72,39,Incomplete,2,Well Done!
+Session0316,S078,14-01-2024 11:00,14-01-2024 12:00,Writing,Device8,Classroom,71,"23°C, 68% light",Active,Cloud,186.76,Basic ANN,91,36,Incomplete,4,Well Done!
+Session0317,S067,14-01-2024 12:00,14-01-2024 13:00,Reading,Device5,Study Hall,69,"24°C, 51% light",Active,Local Edge Node,404.05,Basic ANN,87,12,Completed,3,Well Done!
+Session0318,S060,14-01-2024 13:00,14-01-2024 14:00,Reading,Device8,Classroom,69,"25°C, 80% light",Active,Cloud,299.04,Basic ANN,99,54,Incomplete,1,Needs Improvement
+Session0319,S100,14-01-2024 14:00,14-01-2024 15:00,Vocabulary,Device1,Study Hall,88,"23°C, 59% light",Inactive,Local Edge Node,317.75,SO-DENN,70,39,Completed,4,Well Done!
+Session0320,S048,14-01-2024 15:00,14-01-2024 16:00,Vocabulary,Device8,Classroom,52,"25°C, 51% light",Active,Local Edge Node,395.4,Basic ANN,81,52,Completed,1,Needs Improvement
+Session0321,S021,14-01-2024 16:00,14-01-2024 17:00,Vocabulary,Device1,Classroom,91,"22°C, 66% light",Active,Local Edge Node,115.77,SO-DENN,65,36,Completed,4,Needs Improvement
+Session0322,S053,14-01-2024 17:00,14-01-2024 18:00,Writing,Device7,Classroom,85,"24°C, 95% light",Inactive,Local Edge Node,415.39,Basic ANN,66,39,Incomplete,1,Needs Improvement
+Session0323,S023,14-01-2024 18:00,14-01-2024 19:00,Reading,Device2,Classroom,77,"20°C, 78% light",Active,Cloud,309.86,Basic ANN,84,36,Incomplete,4,Needs Improvement
+Session0324,S009,14-01-2024 19:00,14-01-2024 20:00,Listening,Device8,Study Hall,74,"25°C, 86% light",Inactive,Cloud,402.55,SO-DENN,67,44,Completed,2,Well Done!
+Session0325,S042,14-01-2024 20:00,14-01-2024 21:00,Writing,Device5,Classroom,68,"20°C, 68% light",Inactive,Local Edge Node,158.04,SO-DENN,87,53,Incomplete,0,Well Done!
+Session0326,S063,14-01-2024 21:00,14-01-2024 22:00,Listening,Device7,Study Hall,52,"22°C, 73% light",Inactive,Cloud,492.04,SO-DENN,89,58,Incomplete,0,Well Done!
+Session0327,S073,14-01-2024 22:00,14-01-2024 23:00,Listening,Device8,Classroom,77,"20°C, 50% light",Active,Local Edge Node,480.75,Basic ANN,51,37,Incomplete,0,Well Done!
+Session0328,S081,14-01-2024 23:00,15-01-2024 00:00,Writing,Device9,Classroom,98,"21°C, 99% light",Active,Local Edge Node,344.65,SO-DENN,64,37,Completed,3,Needs Improvement
+Session0329,S057,15-01-2024 00:00,15-01-2024 01:00,Reading,Device9,Study Hall,56,"23°C, 67% light",Active,Local Edge Node,356.99,Basic ANN,84,10,Incomplete,2,Needs Improvement
+Session0330,S019,15-01-2024 01:00,15-01-2024 02:00,Listening,Device3,Classroom,91,"25°C, 65% light",Active,Local Edge Node,170.7,Basic ANN,59,57,Completed,0,Needs Improvement
+Session0331,S039,15-01-2024 02:00,15-01-2024 03:00,Writing,Device9,Study Hall,86,"22°C, 53% light",Inactive,Local Edge Node,207.62,Basic ANN,69,18,Incomplete,1,Needs Improvement
+Session0332,S047,15-01-2024 03:00,15-01-2024 04:00,Reading,Device5,Study Hall,67,"22°C, 95% light",Inactive,Cloud,243.68,Basic ANN,86,38,Completed,4,Well Done!
+Session0333,S097,15-01-2024 04:00,15-01-2024 05:00,Reading,Device10,Study Hall,70,"22°C, 73% light",Inactive,Cloud,213.48,Basic ANN,51,18,Completed,3,Well Done!
+Session0334,S100,15-01-2024 05:00,15-01-2024 06:00,Vocabulary,Device5,Study Hall,53,"25°C, 50% light",Inactive,Local Edge Node,122.8,SO-DENN,84,42,Incomplete,4,Needs Improvement
+Session0335,S017,15-01-2024 06:00,15-01-2024 07:00,Writing,Device1,Study Hall,60,"23°C, 100% light",Inactive,Cloud,203.02,Basic ANN,62,29,Incomplete,4,Needs Improvement
+Session0336,S019,15-01-2024 07:00,15-01-2024 08:00,Writing,Device6,Classroom,50,"25°C, 80% light",Inactive,Local Edge Node,201.88,Basic ANN,56,45,Incomplete,1,Needs Improvement
+Session0337,S068,15-01-2024 08:00,15-01-2024 09:00,Listening,Device7,Classroom,53,"22°C, 87% light",Inactive,Cloud,404.86,Basic ANN,95,49,Incomplete,1,Well Done!
+Session0338,S079,15-01-2024 09:00,15-01-2024 10:00,Listening,Device8,Study Hall,55,"23°C, 88% light",Inactive,Local Edge Node,112.55,Basic ANN,94,41,Completed,0,Well Done!
+Session0339,S049,15-01-2024 10:00,15-01-2024 11:00,Vocabulary,Device5,Study Hall,54,"22°C, 82% light",Inactive,Cloud,483.22,Basic ANN,77,31,Completed,3,Well Done!
+Session0340,S083,15-01-2024 11:00,15-01-2024 12:00,Reading,Device8,Study Hall,91,"24°C, 71% light",Inactive,Cloud,303.22,SO-DENN,74,14,Incomplete,2,Needs Improvement
+Session0341,S045,15-01-2024 12:00,15-01-2024 13:00,Writing,Device10,Study Hall,87,"22°C, 78% light",Active,Local Edge Node,494.66,SO-DENN,82,19,Completed,2,Needs Improvement
+Session0342,S017,15-01-2024 13:00,15-01-2024 14:00,Writing,Device2,Study Hall,70,"25°C, 91% light",Inactive,Local Edge Node,212.73,Basic ANN,58,49,Incomplete,2,Well Done!
+Session0343,S004,15-01-2024 14:00,15-01-2024 15:00,Vocabulary,Device10,Classroom,70,"22°C, 71% light",Active,Local Edge Node,328.35,Basic ANN,59,36,Completed,4,Well Done!
+Session0344,S080,15-01-2024 15:00,15-01-2024 16:00,Reading,Device4,Study Hall,75,"23°C, 99% light",Inactive,Cloud,423.03,SO-DENN,87,14,Completed,3,Well Done!
+Session0345,S088,15-01-2024 16:00,15-01-2024 17:00,Vocabulary,Device4,Classroom,82,"22°C, 73% light",Active,Local Edge Node,497.75,SO-DENN,66,40,Completed,3,Well Done!
+Session0346,S036,15-01-2024 17:00,15-01-2024 18:00,Vocabulary,Device8,Classroom,60,"25°C, 53% light",Inactive,Local Edge Node,115.86,Basic ANN,68,25,Completed,3,Well Done!
+Session0347,S044,15-01-2024 18:00,15-01-2024 19:00,Reading,Device8,Study Hall,67,"22°C, 77% light",Inactive,Cloud,309.31,SO-DENN,71,59,Incomplete,4,Needs Improvement
+Session0348,S099,15-01-2024 19:00,15-01-2024 20:00,Vocabulary,Device1,Classroom,89,"25°C, 50% light",Inactive,Cloud,189.25,SO-DENN,58,21,Incomplete,3,Well Done!
+Session0349,S033,15-01-2024 20:00,15-01-2024 21:00,Vocabulary,Device6,Classroom,99,"23°C, 63% light",Active,Cloud,253.8,SO-DENN,50,19,Incomplete,1,Needs Improvement
+Session0350,S091,15-01-2024 21:00,15-01-2024 22:00,Writing,Device1,Study Hall,82,"20°C, 79% light",Active,Local Edge Node,121.07,SO-DENN,51,25,Incomplete,3,Well Done!
+Session0351,S038,15-01-2024 22:00,15-01-2024 23:00,Writing,Device7,Study Hall,78,"22°C, 84% light",Active,Local Edge Node,102.39,SO-DENN,96,27,Completed,2,Well Done!
+Session0352,S076,15-01-2024 23:00,16-01-2024 00:00,Reading,Device6,Study Hall,83,"20°C, 59% light",Inactive,Local Edge Node,332.13,SO-DENN,60,16,Incomplete,0,Well Done!
+Session0353,S081,16-01-2024 00:00,16-01-2024 01:00,Writing,Device6,Study Hall,50,"22°C, 80% light",Inactive,Cloud,361.83,SO-DENN,94,45,Completed,4,Well Done!
+Session0354,S032,16-01-2024 01:00,16-01-2024 02:00,Vocabulary,Device1,Study Hall,71,"25°C, 52% light",Inactive,Local Edge Node,102.49,SO-DENN,56,36,Incomplete,0,Well Done!
+Session0355,S015,16-01-2024 02:00,16-01-2024 03:00,Writing,Device7,Classroom,90,"21°C, 79% light",Active,Cloud,220.75,SO-DENN,56,44,Completed,2,Needs Improvement
+Session0356,S048,16-01-2024 03:00,16-01-2024 04:00,Listening,Device10,Study Hall,78,"24°C, 80% light",Inactive,Local Edge Node,409.02,Basic ANN,81,49,Completed,3,Needs Improvement
+Session0357,S012,16-01-2024 04:00,16-01-2024 05:00,Listening,Device7,Classroom,90,"23°C, 59% light",Active,Local Edge Node,162.46,Basic ANN,76,31,Incomplete,4,Needs Improvement
+Session0358,S019,16-01-2024 05:00,16-01-2024 06:00,Reading,Device5,Study Hall,87,"22°C, 81% light",Inactive,Local Edge Node,356.73,SO-DENN,78,34,Incomplete,1,Well Done!
+Session0359,S029,16-01-2024 06:00,16-01-2024 07:00,Vocabulary,Device6,Classroom,90,"20°C, 69% light",Active,Cloud,259.28,SO-DENN,52,34,Completed,1,Well Done!
+Session0360,S072,16-01-2024 07:00,16-01-2024 08:00,Writing,Device7,Classroom,85,"24°C, 88% light",Active,Local Edge Node,142.73,SO-DENN,84,19,Incomplete,4,Well Done!
+Session0361,S098,16-01-2024 08:00,16-01-2024 09:00,Reading,Device9,Classroom,85,"25°C, 92% light",Inactive,Cloud,119.31,Basic ANN,53,29,Incomplete,3,Needs Improvement
+Session0362,S052,16-01-2024 09:00,16-01-2024 10:00,Listening,Device10,Study Hall,50,"24°C, 58% light",Inactive,Cloud,401.16,Basic ANN,56,37,Incomplete,2,Well Done!
+Session0363,S014,16-01-2024 10:00,16-01-2024 11:00,Reading,Device2,Classroom,65,"24°C, 83% light",Active,Cloud,293.57,Basic ANN,78,45,Completed,0,Needs Improvement
+Session0364,S063,16-01-2024 11:00,16-01-2024 12:00,Vocabulary,Device8,Classroom,81,"20°C, 58% light",Active,Local Edge Node,153.08,Basic ANN,92,59,Completed,0,Needs Improvement
+Session0365,S060,16-01-2024 12:00,16-01-2024 13:00,Writing,Device2,Study Hall,97,"20°C, 77% light",Active,Cloud,438.23,Basic ANN,87,17,Incomplete,3,Needs Improvement
+Session0366,S092,16-01-2024 13:00,16-01-2024 14:00,Reading,Device10,Study Hall,67,"24°C, 69% light",Active,Cloud,481.36,Basic ANN,92,23,Incomplete,1,Needs Improvement
+Session0367,S033,16-01-2024 14:00,16-01-2024 15:00,Writing,Device6,Classroom,95,"23°C, 94% light",Inactive,Cloud,148.29,Basic ANN,91,18,Completed,0,Needs Improvement
+Session0368,S085,16-01-2024 15:00,16-01-2024 16:00,Reading,Device4,Classroom,63,"22°C, 96% light",Active,Local Edge Node,441.21,SO-DENN,85,50,Incomplete,3,Needs Improvement
+Session0369,S059,16-01-2024 16:00,16-01-2024 17:00,Reading,Device9,Study Hall,51,"25°C, 89% light",Inactive,Cloud,420.04,Basic ANN,84,28,Incomplete,0,Well Done!
+Session0370,S051,16-01-2024 17:00,16-01-2024 18:00,Reading,Device10,Classroom,83,"22°C, 98% light",Inactive,Local Edge Node,212.3,Basic ANN,75,48,Incomplete,1,Well Done!
+Session0371,S049,16-01-2024 18:00,16-01-2024 19:00,Listening,Device1,Study Hall,82,"25°C, 61% light",Inactive,Local Edge Node,340.82,SO-DENN,97,42,Completed,3,Well Done!
+Session0372,S030,16-01-2024 19:00,16-01-2024 20:00,Listening,Device6,Study Hall,52,"24°C, 79% light",Active,Cloud,156.4,Basic ANN,71,43,Incomplete,0,Needs Improvement
+Session0373,S068,16-01-2024 20:00,16-01-2024 21:00,Writing,Device2,Classroom,81,"24°C, 98% light",Active,Cloud,301.45,SO-DENN,50,36,Completed,2,Needs Improvement
+Session0374,S035,16-01-2024 21:00,16-01-2024 22:00,Listening,Device4,Study Hall,72,"22°C, 72% light",Inactive,Cloud,305.68,SO-DENN,50,10,Incomplete,2,Well Done!
+Session0375,S012,16-01-2024 22:00,16-01-2024 23:00,Vocabulary,Device5,Classroom,58,"21°C, 96% light",Inactive,Local Edge Node,354.07,Basic ANN,78,25,Completed,0,Needs Improvement
+Session0376,S087,16-01-2024 23:00,17-01-2024 00:00,Writing,Device10,Classroom,64,"23°C, 64% light",Inactive,Cloud,290.41,SO-DENN,58,53,Completed,1,Well Done!
+Session0377,S061,17-01-2024 00:00,17-01-2024 01:00,Vocabulary,Device4,Classroom,57,"21°C, 86% light",Active,Cloud,294.24,Basic ANN,92,31,Incomplete,4,Well Done!
+Session0378,S019,17-01-2024 01:00,17-01-2024 02:00,Reading,Device6,Study Hall,54,"22°C, 86% light",Inactive,Cloud,101.98,SO-DENN,85,27,Incomplete,3,Needs Improvement
+Session0379,S072,17-01-2024 02:00,17-01-2024 03:00,Listening,Device4,Study Hall,86,"21°C, 96% light",Inactive,Cloud,285.16,SO-DENN,97,52,Completed,2,Needs Improvement
+Session0380,S010,17-01-2024 03:00,17-01-2024 04:00,Reading,Device4,Classroom,72,"23°C, 66% light",Inactive,Cloud,415.23,Basic ANN,65,39,Incomplete,0,Needs Improvement
+Session0381,S083,17-01-2024 04:00,17-01-2024 05:00,Listening,Device8,Classroom,79,"25°C, 66% light",Active,Cloud,129.02,SO-DENN,88,40,Completed,3,Well Done!
+Session0382,S047,17-01-2024 05:00,17-01-2024 06:00,Reading,Device8,Study Hall,72,"23°C, 76% light",Inactive,Cloud,457,SO-DENN,93,16,Incomplete,3,Needs Improvement
+Session0383,S005,17-01-2024 06:00,17-01-2024 07:00,Vocabulary,Device7,Classroom,98,"20°C, 93% light",Inactive,Cloud,150.32,SO-DENN,52,24,Incomplete,1,Well Done!
+Session0384,S078,17-01-2024 07:00,17-01-2024 08:00,Vocabulary,Device2,Study Hall,54,"23°C, 92% light",Inactive,Local Edge Node,276.12,Basic ANN,75,34,Completed,3,Needs Improvement
+Session0385,S049,17-01-2024 08:00,17-01-2024 09:00,Writing,Device9,Study Hall,54,"20°C, 65% light",Active,Local Edge Node,367.88,Basic ANN,50,54,Completed,4,Needs Improvement
+Session0386,S011,17-01-2024 09:00,17-01-2024 10:00,Listening,Device3,Classroom,71,"22°C, 87% light",Active,Cloud,486.06,Basic ANN,82,53,Completed,0,Needs Improvement
+Session0387,S054,17-01-2024 10:00,17-01-2024 11:00,Listening,Device8,Classroom,78,"22°C, 52% light",Inactive,Cloud,257.09,SO-DENN,50,57,Incomplete,4,Well Done!
+Session0388,S078,17-01-2024 11:00,17-01-2024 12:00,Writing,Device3,Classroom,75,"25°C, 62% light",Active,Cloud,441.8,SO-DENN,65,22,Completed,2,Needs Improvement
+Session0389,S064,17-01-2024 12:00,17-01-2024 13:00,Listening,Device2,Classroom,50,"21°C, 67% light",Inactive,Cloud,101.86,Basic ANN,74,52,Completed,2,Well Done!
+Session0390,S094,17-01-2024 13:00,17-01-2024 14:00,Writing,Device9,Study Hall,69,"24°C, 55% light",Active,Local Edge Node,193.83,Basic ANN,85,30,Incomplete,0,Well Done!
+Session0391,S074,17-01-2024 14:00,17-01-2024 15:00,Writing,Device8,Study Hall,78,"22°C, 85% light",Inactive,Local Edge Node,358.09,Basic ANN,71,41,Incomplete,0,Needs Improvement
+Session0392,S043,17-01-2024 15:00,17-01-2024 16:00,Writing,Device5,Classroom,79,"20°C, 78% light",Active,Cloud,406.91,SO-DENN,68,33,Incomplete,0,Well Done!
+Session0393,S007,17-01-2024 16:00,17-01-2024 17:00,Vocabulary,Device1,Classroom,88,"25°C, 87% light",Active,Cloud,360.11,Basic ANN,93,41,Incomplete,1,Needs Improvement
+Session0394,S092,17-01-2024 17:00,17-01-2024 18:00,Vocabulary,Device3,Classroom,89,"21°C, 53% light",Active,Local Edge Node,492.13,SO-DENN,86,39,Completed,1,Needs Improvement
+Session0395,S093,17-01-2024 18:00,17-01-2024 19:00,Listening,Device4,Classroom,78,"20°C, 95% light",Inactive,Cloud,389.87,SO-DENN,60,28,Incomplete,0,Well Done!
+Session0396,S077,17-01-2024 19:00,17-01-2024 20:00,Writing,Device2,Classroom,61,"25°C, 86% light",Inactive,Local Edge Node,116.05,Basic ANN,93,41,Incomplete,2,Well Done!
+Session0397,S001,17-01-2024 20:00,17-01-2024 21:00,Reading,Device8,Classroom,79,"20°C, 56% light",Inactive,Cloud,121.27,SO-DENN,75,47,Completed,1,Needs Improvement
+Session0398,S083,17-01-2024 21:00,17-01-2024 22:00,Reading,Device8,Study Hall,69,"20°C, 99% light",Active,Cloud,380.34,Basic ANN,95,25,Completed,2,Needs Improvement
+Session0399,S049,17-01-2024 22:00,17-01-2024 23:00,Reading,Device9,Study Hall,66,"20°C, 74% light",Active,Cloud,276.13,SO-DENN,52,26,Incomplete,2,Needs Improvement
+Session0400,S045,17-01-2024 23:00,18-01-2024 00:00,Reading,Device6,Study Hall,84,"22°C, 68% light",Inactive,Cloud,165.12,SO-DENN,51,50,Completed,4,Well Done!
+Session0401,S020,18-01-2024 00:00,18-01-2024 01:00,Vocabulary,Device7,Classroom,99,"25°C, 74% light",Active,Cloud,198.09,Basic ANN,62,22,Completed,4,Needs Improvement
+Session0402,S035,18-01-2024 01:00,18-01-2024 02:00,Vocabulary,Device9,Classroom,64,"21°C, 55% light",Active,Cloud,155.06,Basic ANN,59,26,Incomplete,0,Well Done!
+Session0403,S015,18-01-2024 02:00,18-01-2024 03:00,Vocabulary,Device9,Study Hall,72,"24°C, 100% light",Active,Local Edge Node,247.26,Basic ANN,56,23,Incomplete,0,Needs Improvement
+Session0404,S082,18-01-2024 03:00,18-01-2024 04:00,Listening,Device8,Classroom,88,"21°C, 96% light",Active,Local Edge Node,485.94,Basic ANN,92,40,Completed,1,Needs Improvement
+Session0405,S019,18-01-2024 04:00,18-01-2024 05:00,Listening,Device5,Classroom,99,"22°C, 64% light",Inactive,Local Edge Node,398.84,SO-DENN,93,27,Completed,1,Needs Improvement
+Session0406,S076,18-01-2024 05:00,18-01-2024 06:00,Vocabulary,Device7,Study Hall,77,"21°C, 66% light",Active,Local Edge Node,352.79,Basic ANN,63,33,Incomplete,3,Needs Improvement
+Session0407,S057,18-01-2024 06:00,18-01-2024 07:00,Reading,Device5,Study Hall,79,"23°C, 77% light",Active,Local Edge Node,326.22,Basic ANN,82,27,Completed,4,Needs Improvement
+Session0408,S042,18-01-2024 07:00,18-01-2024 08:00,Listening,Device7,Classroom,93,"20°C, 99% light",Active,Local Edge Node,222.67,SO-DENN,55,46,Incomplete,0,Needs Improvement
+Session0409,S025,18-01-2024 08:00,18-01-2024 09:00,Vocabulary,Device2,Study Hall,87,"20°C, 50% light",Active,Cloud,206.4,Basic ANN,89,14,Completed,4,Needs Improvement
+Session0410,S051,18-01-2024 09:00,18-01-2024 10:00,Reading,Device9,Classroom,69,"25°C, 81% light",Inactive,Local Edge Node,199.12,SO-DENN,98,39,Incomplete,2,Well Done!
+Session0411,S088,18-01-2024 10:00,18-01-2024 11:00,Vocabulary,Device3,Classroom,53,"21°C, 68% light",Active,Cloud,400.03,SO-DENN,70,57,Incomplete,2,Needs Improvement
+Session0412,S067,18-01-2024 11:00,18-01-2024 12:00,Vocabulary,Device4,Study Hall,67,"24°C, 99% light",Inactive,Cloud,334.69,SO-DENN,84,10,Incomplete,3,Well Done!
+Session0413,S057,18-01-2024 12:00,18-01-2024 13:00,Listening,Device1,Classroom,73,"22°C, 87% light",Active,Cloud,186.41,Basic ANN,99,11,Incomplete,4,Well Done!
+Session0414,S037,18-01-2024 13:00,18-01-2024 14:00,Vocabulary,Device2,Study Hall,51,"25°C, 56% light",Inactive,Local Edge Node,247.91,SO-DENN,88,41,Completed,3,Needs Improvement
+Session0415,S001,18-01-2024 14:00,18-01-2024 15:00,Reading,Device1,Classroom,74,"21°C, 65% light",Active,Local Edge Node,137.67,SO-DENN,60,22,Completed,1,Well Done!
+Session0416,S039,18-01-2024 15:00,18-01-2024 16:00,Writing,Device8,Classroom,52,"20°C, 52% light",Inactive,Local Edge Node,251.84,Basic ANN,62,34,Completed,3,Well Done!
+Session0417,S061,18-01-2024 16:00,18-01-2024 17:00,Writing,Device3,Study Hall,57,"22°C, 66% light",Active,Cloud,236.53,SO-DENN,78,39,Incomplete,4,Well Done!
+Session0418,S072,18-01-2024 17:00,18-01-2024 18:00,Writing,Device1,Study Hall,78,"21°C, 93% light",Inactive,Local Edge Node,409.12,SO-DENN,61,50,Incomplete,0,Well Done!
+Session0419,S050,18-01-2024 18:00,18-01-2024 19:00,Listening,Device10,Classroom,99,"23°C, 85% light",Active,Local Edge Node,368.97,Basic ANN,74,53,Incomplete,0,Needs Improvement
+Session0420,S036,18-01-2024 19:00,18-01-2024 20:00,Reading,Device7,Classroom,57,"23°C, 100% light",Inactive,Local Edge Node,465.79,SO-DENN,81,53,Completed,2,Needs Improvement
+Session0421,S069,18-01-2024 20:00,18-01-2024 21:00,Vocabulary,Device5,Study Hall,69,"21°C, 69% light",Inactive,Local Edge Node,226.54,Basic ANN,72,33,Completed,0,Needs Improvement
+Session0422,S078,18-01-2024 21:00,18-01-2024 22:00,Listening,Device5,Study Hall,99,"24°C, 82% light",Inactive,Local Edge Node,297.1,SO-DENN,57,13,Incomplete,1,Needs Improvement
+Session0423,S064,18-01-2024 22:00,18-01-2024 23:00,Reading,Device3,Study Hall,91,"25°C, 58% light",Inactive,Cloud,359.89,Basic ANN,52,34,Incomplete,1,Needs Improvement
+Session0424,S056,18-01-2024 23:00,19-01-2024 00:00,Listening,Device10,Study Hall,93,"23°C, 71% light",Inactive,Local Edge Node,441.16,SO-DENN,90,14,Incomplete,0,Needs Improvement
+Session0425,S012,19-01-2024 00:00,19-01-2024 01:00,Vocabulary,Device7,Study Hall,64,"24°C, 70% light",Inactive,Local Edge Node,481.07,SO-DENN,52,18,Incomplete,2,Well Done!
+Session0426,S077,19-01-2024 01:00,19-01-2024 02:00,Vocabulary,Device3,Study Hall,83,"21°C, 74% light",Active,Local Edge Node,287.76,Basic ANN,54,37,Completed,1,Well Done!
+Session0427,S013,19-01-2024 02:00,19-01-2024 03:00,Writing,Device1,Study Hall,86,"25°C, 92% light",Inactive,Cloud,279.27,SO-DENN,93,22,Incomplete,1,Needs Improvement
+Session0428,S007,19-01-2024 03:00,19-01-2024 04:00,Vocabulary,Device2,Study Hall,76,"20°C, 62% light",Inactive,Cloud,455.5,Basic ANN,81,57,Incomplete,0,Well Done!
+Session0429,S064,19-01-2024 04:00,19-01-2024 05:00,Writing,Device3,Classroom,80,"21°C, 52% light",Inactive,Cloud,148.52,SO-DENN,84,15,Completed,2,Needs Improvement
+Session0430,S046,19-01-2024 05:00,19-01-2024 06:00,Listening,Device3,Classroom,83,"21°C, 76% light",Active,Local Edge Node,154.05,SO-DENN,78,49,Completed,4,Well Done!
+Session0431,S024,19-01-2024 06:00,19-01-2024 07:00,Listening,Device1,Classroom,57,"25°C, 51% light",Inactive,Cloud,414.15,SO-DENN,74,36,Completed,2,Needs Improvement
+Session0432,S025,19-01-2024 07:00,19-01-2024 08:00,Reading,Device3,Study Hall,62,"22°C, 55% light",Inactive,Cloud,267.76,Basic ANN,79,12,Incomplete,0,Needs Improvement
+Session0433,S054,19-01-2024 08:00,19-01-2024 09:00,Writing,Device9,Study Hall,87,"20°C, 77% light",Inactive,Local Edge Node,126.46,SO-DENN,75,47,Completed,0,Needs Improvement
+Session0434,S064,19-01-2024 09:00,19-01-2024 10:00,Vocabulary,Device8,Study Hall,69,"22°C, 58% light",Active,Local Edge Node,484.37,Basic ANN,52,38,Incomplete,2,Needs Improvement
+Session0435,S079,19-01-2024 10:00,19-01-2024 11:00,Listening,Device4,Study Hall,57,"24°C, 60% light",Active,Local Edge Node,485.21,Basic ANN,63,54,Incomplete,0,Needs Improvement
+Session0436,S014,19-01-2024 11:00,19-01-2024 12:00,Vocabulary,Device3,Classroom,72,"22°C, 63% light",Inactive,Local Edge Node,487.24,Basic ANN,83,28,Completed,4,Well Done!
+Session0437,S012,19-01-2024 12:00,19-01-2024 13:00,Writing,Device9,Study Hall,90,"21°C, 77% light",Inactive,Cloud,416.81,Basic ANN,77,13,Completed,2,Well Done!
+Session0438,S036,19-01-2024 13:00,19-01-2024 14:00,Listening,Device8,Study Hall,87,"22°C, 94% light",Active,Cloud,402.48,Basic ANN,50,24,Completed,2,Needs Improvement
+Session0439,S087,19-01-2024 14:00,19-01-2024 15:00,Listening,Device7,Classroom,62,"21°C, 55% light",Inactive,Cloud,315.01,Basic ANN,71,18,Completed,0,Well Done!
+Session0440,S004,19-01-2024 15:00,19-01-2024 16:00,Listening,Device4,Classroom,75,"22°C, 85% light",Inactive,Cloud,387.58,Basic ANN,87,23,Incomplete,1,Well Done!
+Session0441,S046,19-01-2024 16:00,19-01-2024 17:00,Reading,Device8,Classroom,55,"21°C, 66% light",Active,Local Edge Node,446.86,SO-DENN,53,20,Completed,1,Well Done!
+Session0442,S051,19-01-2024 17:00,19-01-2024 18:00,Vocabulary,Device5,Classroom,75,"23°C, 65% light",Active,Cloud,206.33,Basic ANN,75,11,Completed,0,Needs Improvement
+Session0443,S068,19-01-2024 18:00,19-01-2024 19:00,Vocabulary,Device5,Study Hall,53,"20°C, 79% light",Active,Local Edge Node,334.08,SO-DENN,99,27,Completed,1,Well Done!
+Session0444,S095,19-01-2024 19:00,19-01-2024 20:00,Writing,Device2,Classroom,86,"24°C, 50% light",Active,Local Edge Node,279.42,Basic ANN,73,29,Incomplete,1,Well Done!
+Session0445,S018,19-01-2024 20:00,19-01-2024 21:00,Listening,Device7,Study Hall,51,"24°C, 79% light",Active,Cloud,449.35,SO-DENN,81,46,Completed,1,Needs Improvement
+Session0446,S017,19-01-2024 21:00,19-01-2024 22:00,Listening,Device4,Classroom,53,"20°C, 100% light",Active,Local Edge Node,415.98,Basic ANN,85,53,Incomplete,0,Well Done!
+Session0447,S082,19-01-2024 22:00,19-01-2024 23:00,Vocabulary,Device2,Study Hall,65,"20°C, 67% light",Inactive,Cloud,219.07,Basic ANN,61,38,Completed,3,Well Done!
+Session0448,S078,19-01-2024 23:00,20-01-2024 00:00,Writing,Device2,Study Hall,79,"20°C, 94% light",Active,Local Edge Node,441.62,Basic ANN,80,10,Completed,4,Needs Improvement
+Session0449,S090,20-01-2024 00:00,20-01-2024 01:00,Reading,Device9,Classroom,83,"24°C, 63% light",Active,Local Edge Node,362.04,Basic ANN,69,59,Incomplete,1,Well Done!
+Session0450,S088,20-01-2024 01:00,20-01-2024 02:00,Reading,Device8,Classroom,81,"24°C, 87% light",Inactive,Local Edge Node,150.06,SO-DENN,93,42,Completed,4,Needs Improvement
+Session0451,S041,20-01-2024 02:00,20-01-2024 03:00,Vocabulary,Device10,Classroom,67,"23°C, 87% light",Inactive,Local Edge Node,175.83,Basic ANN,64,39,Incomplete,0,Needs Improvement
+Session0452,S033,20-01-2024 03:00,20-01-2024 04:00,Reading,Device2,Study Hall,65,"21°C, 100% light",Active,Cloud,383.01,SO-DENN,57,15,Incomplete,0,Needs Improvement
+Session0453,S067,20-01-2024 04:00,20-01-2024 05:00,Writing,Device1,Classroom,92,"24°C, 96% light",Active,Local Edge Node,286.7,Basic ANN,77,55,Completed,0,Needs Improvement
+Session0454,S099,20-01-2024 05:00,20-01-2024 06:00,Reading,Device3,Classroom,95,"24°C, 75% light",Active,Cloud,300.61,Basic ANN,98,13,Completed,4,Needs Improvement
+Session0455,S062,20-01-2024 06:00,20-01-2024 07:00,Vocabulary,Device3,Study Hall,86,"25°C, 95% light",Inactive,Cloud,109.64,SO-DENN,61,22,Completed,2,Well Done!
+Session0456,S081,20-01-2024 07:00,20-01-2024 08:00,Reading,Device2,Study Hall,61,"22°C, 57% light",Inactive,Local Edge Node,112.18,Basic ANN,89,24,Completed,4,Well Done!
+Session0457,S003,20-01-2024 08:00,20-01-2024 09:00,Listening,Device1,Classroom,55,"22°C, 54% light",Inactive,Local Edge Node,309.75,SO-DENN,50,23,Completed,3,Well Done!
+Session0458,S088,20-01-2024 09:00,20-01-2024 10:00,Writing,Device7,Classroom,55,"24°C, 84% light",Active,Local Edge Node,178.35,SO-DENN,66,35,Completed,3,Well Done!
+Session0459,S010,20-01-2024 10:00,20-01-2024 11:00,Writing,Device1,Classroom,85,"24°C, 71% light",Inactive,Cloud,332.43,Basic ANN,74,11,Completed,1,Well Done!
+Session0460,S074,20-01-2024 11:00,20-01-2024 12:00,Reading,Device7,Study Hall,85,"20°C, 86% light",Active,Local Edge Node,122.14,SO-DENN,81,11,Incomplete,3,Needs Improvement
+Session0461,S060,20-01-2024 12:00,20-01-2024 13:00,Listening,Device1,Study Hall,50,"25°C, 80% light",Active,Local Edge Node,203.36,Basic ANN,92,16,Incomplete,2,Well Done!
+Session0462,S080,20-01-2024 13:00,20-01-2024 14:00,Writing,Device5,Classroom,91,"21°C, 70% light",Active,Cloud,343.45,Basic ANN,55,49,Incomplete,1,Well Done!
+Session0463,S075,20-01-2024 14:00,20-01-2024 15:00,Listening,Device8,Study Hall,98,"25°C, 57% light",Inactive,Local Edge Node,444.17,Basic ANN,63,43,Incomplete,0,Needs Improvement
+Session0464,S069,20-01-2024 15:00,20-01-2024 16:00,Vocabulary,Device5,Classroom,65,"20°C, 89% light",Active,Local Edge Node,470.29,SO-DENN,59,41,Incomplete,1,Needs Improvement
+Session0465,S099,20-01-2024 16:00,20-01-2024 17:00,Vocabulary,Device5,Classroom,55,"22°C, 54% light",Inactive,Local Edge Node,116.25,SO-DENN,63,23,Incomplete,4,Needs Improvement
+Session0466,S093,20-01-2024 17:00,20-01-2024 18:00,Listening,Device8,Classroom,78,"21°C, 81% light",Active,Cloud,126.09,SO-DENN,88,21,Completed,0,Needs Improvement
+Session0467,S001,20-01-2024 18:00,20-01-2024 19:00,Reading,Device6,Study Hall,66,"25°C, 99% light",Active,Local Edge Node,147.84,SO-DENN,88,50,Completed,0,Needs Improvement
+Session0468,S100,20-01-2024 19:00,20-01-2024 20:00,Writing,Device3,Classroom,65,"20°C, 59% light",Active,Cloud,484.07,Basic ANN,67,20,Completed,2,Well Done!
+Session0469,S014,20-01-2024 20:00,20-01-2024 21:00,Reading,Device6,Study Hall,96,"25°C, 57% light",Inactive,Local Edge Node,446.07,SO-DENN,53,54,Completed,0,Needs Improvement
+Session0470,S005,20-01-2024 21:00,20-01-2024 22:00,Reading,Device3,Classroom,59,"22°C, 65% light",Active,Cloud,226.54,SO-DENN,53,53,Completed,4,Well Done!
+Session0471,S055,20-01-2024 22:00,20-01-2024 23:00,Reading,Device8,Study Hall,60,"24°C, 62% light",Active,Cloud,310.74,Basic ANN,86,38,Incomplete,3,Needs Improvement
+Session0472,S052,20-01-2024 23:00,21-01-2024 00:00,Listening,Device5,Study Hall,80,"23°C, 55% light",Active,Cloud,377.76,SO-DENN,83,19,Incomplete,2,Needs Improvement
+Session0473,S085,21-01-2024 00:00,21-01-2024 01:00,Reading,Device10,Classroom,52,"20°C, 72% light",Inactive,Local Edge Node,243.25,Basic ANN,73,51,Incomplete,3,Needs Improvement
+Session0474,S092,21-01-2024 01:00,21-01-2024 02:00,Writing,Device4,Study Hall,75,"23°C, 76% light",Active,Local Edge Node,166.1,Basic ANN,63,44,Incomplete,1,Well Done!
+Session0475,S058,21-01-2024 02:00,21-01-2024 03:00,Vocabulary,Device7,Study Hall,51,"20°C, 89% light",Active,Cloud,426.98,SO-DENN,53,52,Incomplete,4,Well Done!
+Session0476,S043,21-01-2024 03:00,21-01-2024 04:00,Reading,Device10,Study Hall,98,"24°C, 55% light",Inactive,Local Edge Node,194.88,Basic ANN,72,40,Incomplete,0,Needs Improvement
+Session0477,S016,21-01-2024 04:00,21-01-2024 05:00,Reading,Device9,Study Hall,90,"25°C, 96% light",Inactive,Cloud,309.73,Basic ANN,85,13,Incomplete,1,Well Done!
+Session0478,S027,21-01-2024 05:00,21-01-2024 06:00,Vocabulary,Device10,Study Hall,62,"24°C, 97% light",Inactive,Local Edge Node,342.79,SO-DENN,82,25,Completed,1,Well Done!
+Session0479,S044,21-01-2024 06:00,21-01-2024 07:00,Listening,Device9,Study Hall,74,"24°C, 78% light",Active,Local Edge Node,247.12,Basic ANN,69,11,Incomplete,4,Well Done!
+Session0480,S026,21-01-2024 07:00,21-01-2024 08:00,Vocabulary,Device4,Study Hall,55,"24°C, 84% light",Inactive,Cloud,126.64,Basic ANN,92,13,Incomplete,2,Needs Improvement
+Session0481,S090,21-01-2024 08:00,21-01-2024 09:00,Listening,Device5,Classroom,56,"20°C, 62% light",Active,Cloud,161.32,Basic ANN,67,51,Completed,3,Needs Improvement
+Session0482,S068,21-01-2024 09:00,21-01-2024 10:00,Reading,Device9,Classroom,66,"22°C, 53% light",Active,Cloud,182.56,Basic ANN,96,55,Incomplete,2,Well Done!
+Session0483,S006,21-01-2024 10:00,21-01-2024 11:00,Listening,Device6,Study Hall,77,"23°C, 92% light",Inactive,Local Edge Node,172.54,Basic ANN,92,55,Completed,0,Needs Improvement
+Session0484,S008,21-01-2024 11:00,21-01-2024 12:00,Reading,Device7,Study Hall,65,"24°C, 80% light",Active,Local Edge Node,400.51,Basic ANN,75,16,Completed,0,Well Done!
+Session0485,S001,21-01-2024 12:00,21-01-2024 13:00,Writing,Device2,Study Hall,62,"20°C, 100% light",Inactive,Cloud,432.33,SO-DENN,91,32,Incomplete,4,Needs Improvement
+Session0486,S015,21-01-2024 13:00,21-01-2024 14:00,Listening,Device3,Classroom,64,"20°C, 93% light",Active,Cloud,212.08,Basic ANN,71,36,Incomplete,0,Well Done!
+Session0487,S074,21-01-2024 14:00,21-01-2024 15:00,Listening,Device1,Classroom,58,"24°C, 62% light",Inactive,Cloud,370.14,SO-DENN,61,18,Incomplete,4,Needs Improvement
+Session0488,S051,21-01-2024 15:00,21-01-2024 16:00,Vocabulary,Device2,Classroom,87,"22°C, 68% light",Active,Cloud,154.72,SO-DENN,51,24,Incomplete,3,Needs Improvement
+Session0489,S052,21-01-2024 16:00,21-01-2024 17:00,Reading,Device4,Classroom,80,"25°C, 54% light",Inactive,Local Edge Node,235.86,SO-DENN,85,24,Incomplete,1,Needs Improvement
+Session0490,S053,21-01-2024 17:00,21-01-2024 18:00,Writing,Device6,Classroom,70,"24°C, 62% light",Active,Local Edge Node,278.21,Basic ANN,63,34,Completed,4,Needs Improvement
+Session0491,S096,21-01-2024 18:00,21-01-2024 19:00,Writing,Device9,Classroom,61,"20°C, 60% light",Inactive,Cloud,212.81,SO-DENN,52,38,Incomplete,1,Well Done!
+Session0492,S088,21-01-2024 19:00,21-01-2024 20:00,Vocabulary,Device10,Classroom,51,"20°C, 99% light",Inactive,Local Edge Node,135.09,Basic ANN,98,53,Incomplete,3,Needs Improvement
+Session0493,S043,21-01-2024 20:00,21-01-2024 21:00,Listening,Device2,Study Hall,54,"23°C, 66% light",Inactive,Cloud,274.9,Basic ANN,54,41,Incomplete,0,Well Done!
+Session0494,S095,21-01-2024 21:00,21-01-2024 22:00,Writing,Device1,Study Hall,89,"21°C, 88% light",Active,Local Edge Node,284.11,Basic ANN,98,30,Incomplete,1,Well Done!
+Session0495,S024,21-01-2024 22:00,21-01-2024 23:00,Writing,Device2,Classroom,65,"23°C, 79% light",Active,Cloud,320.96,Basic ANN,76,39,Completed,4,Needs Improvement
+Session0496,S049,21-01-2024 23:00,22-01-2024 00:00,Listening,Device3,Classroom,88,"20°C, 73% light",Inactive,Local Edge Node,471.21,Basic ANN,98,34,Completed,1,Well Done!
+Session0497,S058,22-01-2024 00:00,22-01-2024 01:00,Vocabulary,Device8,Study Hall,74,"25°C, 62% light",Inactive,Local Edge Node,226.24,Basic ANN,74,35,Completed,2,Needs Improvement
+Session0498,S045,22-01-2024 01:00,22-01-2024 02:00,Writing,Device9,Study Hall,85,"21°C, 90% light",Active,Local Edge Node,237.16,SO-DENN,70,15,Incomplete,3,Needs Improvement
+Session0499,S032,22-01-2024 02:00,22-01-2024 03:00,Listening,Device1,Study Hall,58,"20°C, 98% light",Inactive,Local Edge Node,220.83,Basic ANN,88,18,Incomplete,4,Needs Improvement
+Session0500,S039,22-01-2024 03:00,22-01-2024 04:00,Listening,Device1,Study Hall,93,"20°C, 79% light",Inactive,Cloud,189.65,SO-DENN,68,50,Completed,3,Well Done!
